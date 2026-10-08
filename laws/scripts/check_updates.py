@@ -48,7 +48,7 @@ def main():
     since = (datetime.date.today() - datetime.timedelta(days=fr["lookback_days"])).isoformat()
     for q in fr["queries"]:
         params = [("conditions[term]", q["term"]), ("conditions[publication_date][gte]", since),
-                  ("order", "newest"), ("per_page", "10"),
+                  ("order", "newest"), ("per_page", "50"),
                   ("fields[]", "title"), ("fields[]", "publication_date"), ("fields[]", "html_url"), ("fields[]", "type")]
         for a in q.get("agencies", []): params.append(("conditions[agencies][]", a))
         try:

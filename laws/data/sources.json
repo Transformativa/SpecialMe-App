@@ -11,7 +11,7 @@
    {"id":"able","term":"ABLE accounts 529A"},
    {"id":"medicaid-hcbs","term":"Medicaid disability home and community-based services","agencies":["centers-for-medicare-medicaid-services"]}
   ],
-  "lookback_days": 14
+  "lookback_days": 190
  },
  "pages": [
   {"id":"ed-idea","url":"https://sites.ed.gov/idea/"},

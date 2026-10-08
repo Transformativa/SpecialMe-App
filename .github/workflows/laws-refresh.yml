@@ -1,6 +1,6 @@
 name: laws-refresh
 on:
-  schedule: [{cron: "17 11 * * 1"}]   # Mondays
+  schedule: [{cron: "17 11 1 1,7 *"}]   # Jan 1 and Jul 1 (every 6 months)
   workflow_dispatch: {}
 permissions: {contents: write, issues: write}
 jobs:
