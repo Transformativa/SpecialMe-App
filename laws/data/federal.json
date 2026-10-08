@@ -1,0 +1,157 @@
+{
+ "schema": 1,
+ "last_verified": "2026-10-08",
+ "review_status": "needs_human_review",
+ "disclaimer": "General information, not legal advice. Check the linked official source.",
+ "laws": [
+  {
+   "id": "idea",
+   "name": "IDEA (Individuals with Disabilities Education Act)",
+   "short": "Special education",
+   "plain": "Gives eligible children birth to 21 a free appropriate public education (FAPE), an IEP, evaluation rights, and procedural safeguards for parents. Part B covers ages 3 to 21. Part C covers early intervention from birth to 3.",
+   "cite": "20 U.S.C. 1400 et seq.; 34 CFR Part 300 (Part B), Part 303 (Part C)",
+   "url": "https://sites.ed.gov/idea/",
+   "reg_url": "https://www.ecfr.gov/current/title-34/subtitle-B/chapter-III/part-300"
+  },
+  {
+   "id": "504",
+   "name": "Section 504 of the Rehabilitation Act",
+   "short": "504 plans and accommodations",
+   "plain": "Civil rights law. Programs that get federal money, including public schools, must give a student with a disability equal access, such as accommodations and modifications, even without an IEP. Many schools write a \"504 plan\".",
+   "cite": "29 U.S.C. 794; 34 CFR Part 104 (Education); 45 CFR Part 84 (HHS)",
+   "url": "https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504",
+   "reg_url": "https://www.ecfr.gov/current/title-34/subtitle-B/chapter-I/part-104"
+  },
+  {
+   "id": "ada",
+   "name": "Americans with Disabilities Act (ADA)",
+   "short": "Anti-discrimination",
+   "plain": "Bars disability discrimination by state and local governments (Title II, which includes public schools), by businesses open to the public (Title III), and in employment (Title I). Includes the right to reasonable modifications and effective communication.",
+   "cite": "42 U.S.C. 12101 et seq.; 28 CFR Parts 35, 36",
+   "url": "https://www.ada.gov/",
+   "reg_url": "https://www.ecfr.gov/current/title-28/chapter-I/part-35"
+  },
+  {
+   "id": "ferpa",
+   "name": "FERPA",
+   "short": "School records privacy",
+   "plain": "Parents can inspect and ask to correct their child's education records, and schools need consent to share them, with exceptions. Rights pass to the student at 18.",
+   "cite": "20 U.S.C. 1232g; 34 CFR Part 99",
+   "url": "https://studentprivacy.ed.gov/",
+   "reg_url": "https://www.ecfr.gov/current/title-34/subtitle-A/part-99"
+  },
+  {
+   "id": "essa",
+   "name": "ESSA (Every Student Succeeds Act)",
+   "short": "Testing and accountability",
+   "plain": "Sets state testing and accountability rules, including a 1% cap on students who take alternate assessments based on alternate achievement standards.",
+   "cite": "20 U.S.C. 6301 et seq.",
+   "url": "https://www.ed.gov/laws-and-policy/laws-preschool-grade-12-education/every-student-succeeds-act-essa"
+  },
+  {
+   "id": "able",
+   "name": "ABLE accounts (Section 529A)",
+   "short": "Savings that protect benefits",
+   "plain": "Tax-advantaged savings accounts for people whose disability began before age 46 (before age 26 until Dec 31, 2025). Limited savings do not count against SSI and Medicaid resource limits.",
+   "cite": "26 U.S.C. 529A",
+   "url": "https://www.ssa.gov/ssi/spotlights/spot-able.html",
+   "verified_note": "SSA page states: effective 1/1/2026, disability onset before age 46."
+  },
+  {
+   "id": "fha",
+   "name": "Fair Housing Act and Air Carrier Access Act",
+   "short": "Housing and travel",
+   "plain": "Fair Housing Act requires reasonable accommodations and modifications in housing. Air Carrier Access Act protects air travelers with disabilities.",
+   "cite": "42 U.S.C. 3601 et seq.; 49 U.S.C. 41705",
+   "url": "https://www.hud.gov/program_offices/fair_housing_equal_opp/disability_rights"
+  }
+ ],
+ "case_law": [
+  {
+   "name": "Endrew F. v. Douglas County School District",
+   "date": "2017-03-22",
+   "plain": "A school must offer an IEP reasonably calculated to let a child make progress that is appropriate in light of the child's circumstances. More than \"merely more than minimal\" progress.",
+   "url": "https://www.supremecourt.gov/opinions/16pdf/15-827_0pm1.pdf"
+  },
+  {
+   "name": "Perez v. Sturgis Public Schools",
+   "date": "2023-03-21",
+   "plain": "A family can sue under the ADA for harm from a school's failure to provide an education without first exhausting IDEA's due process process, if they are not seeking IDEA relief.",
+   "url": "https://www.supremecourt.gov/opinions/22pdf/21-887_k53m.pdf"
+  },
+  {
+   "name": "A.J.T. v. Osseo Area Schools",
+   "date": "2025-06-12",
+   "plain": "Students suing schools under the ADA and Section 504 do not face a harder \"bad faith or gross misjudgment\" standard than other disability discrimination plaintiffs.",
+   "url": "https://www.supremecourt.gov/opinions/24pdf/24-249_a86c.pdf"
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-06-16",
+   "title": "Education Department moves special education work to HHS by interagency agreement",
+   "plain": "ED announced agreements to move administration of IDEA Parts B, C and D grants and parts of enforcement and monitoring to HHS, and some Office for Civil Rights work to the Justice Department. ED says the agreements do not change students' legal rights. No filed lawsuit was found as of 2026-10-08; advocacy groups call the transfers illegal. Effective dates are not stated in coverage.",
+   "kind": "administrative",
+   "url": "https://www.k12dive.com/news/takeaways-from-the-ed-dept-hhs-special-education-agreement/823287/",
+   "source_type": "news",
+   "confidence": "medium"
+  },
+  {
+   "date": "2026-06-01",
+   "title": "Medicaid community-engagement rule: exemptions for people who are medically frail and some caregivers",
+   "plain": "CMS interim final rule. States must implement by January 1, 2027. Exemptions apply to people who are medically frail and to certain caregivers. Check your state Medicaid agency for how it will be applied.",
+   "kind": "benefits",
+   "url": "https://www.cms.gov/",
+   "source_type": "agency",
+   "confidence": "medium",
+   "gap": "Confirm exact Federal Register citation."
+  },
+  {
+   "date": "2026-01-01",
+   "title": "ABLE eligibility age rises to 46",
+   "plain": "People whose disability began before age 46 can now open ABLE accounts.",
+   "kind": "benefits",
+   "url": "https://www.ssa.gov/ssi/spotlights/spot-able.html",
+   "source_type": "agency",
+   "confidence": "high"
+  },
+  {
+   "date": "2025-06-12",
+   "title": "Supreme Court: A.J.T. v. Osseo Area Schools",
+   "plain": "Same standard applies to school ADA and 504 claims as other disability claims.",
+   "kind": "court",
+   "url": "https://www.supremecourt.gov/opinions/24pdf/24-249_a86c.pdf",
+   "source_type": "court",
+   "confidence": "high"
+  },
+  {
+   "date": "2024-05-09",
+   "title": "HHS final rule updating Section 504 (45 CFR Part 84), 89 FR 40066",
+   "plain": "Published May 9, 2024 and effective July 8, 2024. Updates disability nondiscrimination rules for HHS-funded programs such as health care and social services.",
+   "kind": "regulation",
+   "url": "https://www.federalregister.gov/documents/2024/05/09/2024-09237/nondiscrimination-on-the-basis-of-disability-in-programs-or-activities-receiving-federal-financial",
+   "source_type": "federal_register",
+   "confidence": "high",
+   "gap": "Compliance schedule not confirmed here; see the full rule."
+  },
+  {
+   "date": "2023-03-21",
+   "title": "Supreme Court: Perez v. Sturgis",
+   "plain": "ADA damages claims need not go through IDEA exhaustion.",
+   "kind": "court",
+   "url": "https://www.supremecourt.gov/opinions/22pdf/21-887_k53m.pdf",
+   "source_type": "court",
+   "confidence": "high"
+  },
+  {
+   "date": "2017-03-22",
+   "title": "Supreme Court: Endrew F.",
+   "plain": "Raised the bar for what an IEP must offer.",
+   "kind": "court",
+   "url": "https://www.supremecourt.gov/opinions/16pdf/15-827_0pm1.pdf",
+   "source_type": "court",
+   "confidence": "high"
+  }
+ ],
+ "note_on_old_sources": "A Copilot answer saying the last significant federal change was 2015 is out of date; changes since then are listed above."
+}

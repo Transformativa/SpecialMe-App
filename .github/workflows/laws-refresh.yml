@@ -1,0 +1,24 @@
+name: laws-refresh
+on:
+  schedule: [{cron: "17 11 * * 1"}]   # Mondays
+  workflow_dispatch: {}
+permissions: {contents: write, issues: write}
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 laws/scripts/check_updates.py
+      - run: python3 laws/scripts/build_app_data.py
+      - name: Save baseline hashes
+        run: |
+          git config user.name "specialme-bot"; git config user.email "bot@specialme.app"
+          git add laws/state/hashes.json && git commit -m "laws: update page hashes" || true
+          git push || true
+      - name: Open review issue
+        if: ${{ hashFiles('laws/review/NEEDS_REVIEW') != '' }}
+        run: |
+          if [ "$(cat laws/review/NEEDS_REVIEW)" = "1" ]; then
+            gh issue create --title "Laws review $(date +%F)" --body-file laws/review/REPORT.md --label laws-review
+          fi
+        env: {GH_TOKEN: "${{ github.token }}"}
