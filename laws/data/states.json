@@ -1,0 +1,2781 @@
+{
+ "schema": 1,
+ "generated": "2026-10-08",
+ "review_status": "agent_researched_needs_human_review",
+ "states": [
+  {
+   "code": "AL",
+   "name": "Alabama",
+   "agency": {
+    "name": "Alabama State Department of Education",
+    "url": "https://www.alabamaachieves.org/"
+   },
+   "special_ed_page": "https://specialeducation.alsde.edu/",
+   "parent_rights_page": "https://specialeducation.alsde.edu/dispute-resolution/parent-rights-procedural-safeguards",
+   "regulations": {
+    "citation": "Alabama Administrative Code ch. 290-8-9 (Special Education Services), State Board of Education",
+    "url": "https://www.alabamaachieves.org/wp-content/uploads/2021/04/SE-AAC-290-8-9-11-4-2013.pdf"
+   },
+   "statute": null,
+   "dispute_resolution": {
+    "page": "https://specialeducation.alsde.edu/dispute-resolution",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Child Find covers birth through age 21. Special education services under IDEA Part B cover ages 3 through 21.",
+   "program_name_notes": "The plan is called an IEP and is written by the IEP Team. Local school systems are called LEAs.",
+   "notable": [
+    {
+     "topic": "Parental rights transfer at age 19",
+     "summary": "Under Alabama law, the parent's special education rights pass to the student at age 19 (the age of majority), not 18.",
+     "citation": "Ala. Admin. Code ch. 290-8-9",
+     "url": "https://www.alabamaachieves.org/wp-content/uploads/2025/02/SPECED_PP_20250212_Alabamas-Procedural-Safeguards-Special-Education-Rights-English_v1.0.pdf",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Updated procedural safeguards notice",
+     "summary": "The state posted a revised English Procedural Safeguards notice (approved by the state department in January 2025) with translations.",
+     "citation": null,
+     "url": "https://www.alabamaachieves.org/wp-content/uploads/2025/02/SPECED_PP_20250212_Alabamas-Procedural-Safeguards-Special-Education-Rights-English_v1.0.pdf",
+     "effective_or_updated": "2025",
+     "year": 2025
+    }
+   ],
+   "gaps": [
+    "State statute (Code of Alabama Title 16, ch. 39) could not be opened on an official site; set to null.",
+    "Regulations link is the state PDF of the chapter effective 2013-11-04; a newer amended version may exist on the Alabama Administrative Code site, which would not load (JavaScript only).",
+    "No state-specific notable laws (dyslexia, restraint, autism insurance) confirmed on official sites."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "AK",
+   "name": "Alaska",
+   "agency": {
+    "name": "Alaska Department of Education & Early Development",
+    "url": "https://education.alaska.gov/"
+   },
+   "special_ed_page": "https://education.alaska.gov/tls/sped",
+   "parent_rights_page": "https://education.alaska.gov/tls/sped/docs/Procedural%20Safeguards.pdf",
+   "regulations": null,
+   "statute": null,
+   "dispute_resolution": {
+    "page": null,
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": null,
+   "program_name_notes": "The state's parent rights notice is titled Notice of Procedural Safeguards: Parental Rights for Special Education. State mediation is run as Alaska Special Education Mediation Services.",
+   "notable": [
+    {
+     "topic": "Parent rights transfer at 18",
+     "summary": "Parent rights pass to the student at age 18 (or on legal emancipation) unless a court has appointed a guardian.",
+     "citation": null,
+     "url": "https://education.alaska.gov/tls/sped/docs/Procedural%20Safeguards.pdf",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [],
+   "gaps": [
+    "4 AAC 52 (regulations) and AS 14.30.180 et seq. (statute) could not be opened on an official Alaska site; set to null.",
+    "No dedicated dispute resolution page found on the SEA site.",
+    "Eligibility ages not stated in the sources opened.",
+    "Procedural safeguards notice shows no date."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "AZ",
+   "name": "Arizona",
+   "agency": {
+    "name": "Arizona Department of Education",
+    "url": "https://www.azed.gov/"
+   },
+   "special_ed_page": "https://www.azed.gov/specialeducation",
+   "parent_rights_page": null,
+   "regulations": {
+    "citation": "Arizona Administrative Code Title 7, ch. 2, art. 4 (R7-2-401, Special Education)",
+    "url": "https://azsbe.az.gov/rules"
+   },
+   "statute": {
+    "citation": "A.R.S. Title 15, ch. 7, art. 4 (Special Education for Exceptional Children, starting at 15-761)",
+    "url": "https://www.azleg.gov/ars/15/00761.htm"
+   },
+   "dispute_resolution": {
+    "page": "https://www.azed.gov/node/5852",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": null,
+   "program_name_notes": "Local school districts and charters are called LEAs or public education agencies (PEAs). The state evaluation report is called an MET (multidisciplinary evaluation team) report.",
+   "notable": [
+    {
+     "topic": "Empowerment Scholarship Account for students with disabilities",
+     "summary": "Students with a current MET report, IEP, or 504 plan from an Arizona public school can qualify for an ESA, including a preschool option for ages 3 and up.",
+     "citation": "A.R.S. 15-2401 and 15-771(G) (as cited by ADE)",
+     "url": "https://www.azed.gov/esa/eligibility-requirements",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Transition services start earlier",
+     "summary": "Transition services must be in the IEP by the end of 9th grade or age 16, whichever comes first, and the IEP must list an expected graduation date. Parents get written notice one year before it.",
+     "citation": "A.A.C. R7-2-401(G)(4)(A)",
+     "url": "https://www.azed.gov/specialeducation/secondary-transition-services-rule-change",
+     "effective_or_updated": "2024-10-21",
+     "year": 2024
+    }
+   ],
+   "gaps": [
+    "No procedural safeguards notice page found; the Dispute Resolution page links the due process, mediation and state complaint procedure PDFs instead.",
+    "Eligibility ages not stated in sources opened.",
+    "Regulations link is the State Board rules page; the rule text itself was not opened and the 2024 amendment was noted as not yet chaptered in the code.",
+    "Not confirmed which page of the ESA site cites the ESA statute section."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "AR",
+   "name": "Arkansas",
+   "agency": {
+    "name": "Arkansas Department of Education",
+    "url": "https://dese.ade.arkansas.gov/"
+   },
+   "special_ed_page": "https://dese.ade.arkansas.gov/Offices/special-education",
+   "parent_rights_page": "https://arksped.ade.arkansas.gov/documents/grantsanddata/Procedural_Safeguards_Notice.pdf",
+   "regulations": {
+    "citation": "Code of Arkansas Rules, Title 6, Part 130 (Procedural Requirements and Program Standards); Part 131 covers eligibility criteria",
+    "url": "https://dese.ade.arkansas.gov/Files/ADE_Spec._Ed._-_Purpose_and_Applicability_-_6CARpt.130-Subpart1_Legal.pdf"
+   },
+   "statute": null,
+   "dispute_resolution": {
+    "page": null,
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21 (title of the state eligibility criteria rule, Part 131).",
+   "program_name_notes": "The state special education unit site is arksped.ade.arkansas.gov. The state agency is also called DESE.",
+   "notable": [],
+   "recent_changes": [],
+   "gaps": [
+    "Statute cited by the state rule as Ark. Code 6-41-202 et seq., but no official statute page was opened, so url is null and statute set to null.",
+    "No dedicated dispute resolution landing page found; procedural safeguards notice used for the three process flags.",
+    "Procedural safeguards notice has no date.",
+    "No notable state laws confirmed."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "CA",
+   "name": "California",
+   "agency": {
+    "name": "California Department of Education",
+    "url": "https://www.cde.ca.gov/"
+   },
+   "special_ed_page": "https://www.cde.ca.gov/sp/se/",
+   "parent_rights_page": "https://www.cde.ca.gov/sp/se/pssummary.asp",
+   "regulations": null,
+   "statute": null,
+   "dispute_resolution": {
+    "page": "https://www.cde.ca.gov/sp/se/dr/",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21 (per CDE Parents' Rights page).",
+   "program_name_notes": "Due process hearings are run by the Office of Administrative Hearings (OAH), part of the Department of General Services. California uses a one-tier hearing system, so appeals go to court.",
+   "notable": [],
+   "recent_changes": [],
+   "gaps": [
+    "Education Code Part 30 (starting at section 56000) and Title 5 CCR regulations could not be opened on an official site (leginfo returned 403); statute and regulations set to null.",
+    "No notable state-specific items confirmed.",
+    "SELPA structure not confirmed on an opened official page."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "CO",
+   "name": "Colorado",
+   "agency": {
+    "name": "Colorado Department of Education",
+    "url": "https://ed.cde.state.co.us/"
+   },
+   "special_ed_page": "https://ed.cde.state.co.us/cdesped",
+   "parent_rights_page": "https://ed.cde.state.co.us/spedlaw",
+   "regulations": {
+    "citation": "Rules for the Administration of the Exceptional Children's Educational Act (ECEA), 1 CCR 301-8",
+    "url": "https://ed.cde.state.co.us/spedlaw/rules"
+   },
+   "statute": null,
+   "dispute_resolution": {
+    "page": "https://ed.cde.state.co.us/spedlaw",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21 under IDEA Part B, as stated by CDE.",
+   "program_name_notes": "The state law is the Exceptional Children's Educational Act (ECEA).",
+   "notable": [
+    {
+     "topic": "Restraint and seclusion complaints",
+     "summary": "State complaints can allege violations of Colorado's restraint and seclusion law as well as IDEA and ECEA.",
+     "citation": "Restraint and Seclusion Act (as named by CDE)",
+     "url": "https://ed.cde.state.co.us/fs/pages/1449",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "IEP facilitation",
+     "summary": "CDE offers alternative dispute resolution including IEP facilitation.",
+     "citation": null,
+     "url": "https://ed.cde.state.co.us/spedlaw",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "State complaints are free and not accepted by email",
+     "summary": "Anyone can file a state complaint at no cost, by mail or hand delivery to CDE and the district. CDE issues a decision within 60 days and the decision is final.",
+     "citation": null,
+     "url": "https://ed.cde.state.co.us/fs/pages/1449",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [],
+   "gaps": [
+    "ECEA statute (C.R.S. 22-20-101 et seq.) not confirmed on an official site; statute set to null.",
+    "Procedural safeguards notice is linked from the Dispute Resolution page (redirects to a finalsite PDF dated April 2025 by file name); parent_rights_page points to the Dispute Resolution page.",
+    "Regulations link is CDE's rules page; the Secretary of State rule text link was not opened."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "CT",
+   "name": "Connecticut",
+   "agency": {
+    "name": "Connecticut State Department of Education",
+    "url": "https://portal.ct.gov/sde"
+   },
+   "special_ed_page": "https://portal.ct.gov/sde/special-education",
+   "parent_rights_page": "https://portal.ct.gov/-/media/sde/special-education/prosaf.pdf",
+   "regulations": {
+    "citation": "Regulations of Connecticut State Agencies 10-76a-1 through 10-76l-1 (Children Requiring Special Education)",
+    "url": "https://portal.ct.gov/-/media/sde/special-education/regulations-of-connecticut-state-agencies-department-of-education-children-requiring-special-educati.pdf"
+   },
+   "statute": {
+    "citation": "Conn. Gen. Stat. ch. 164 (Educational Opportunities), special education sections beginning at 10-76a",
+    "url": "https://www.cga.ct.gov/current/pub/chap_164.htm"
+   },
+   "dispute_resolution": {
+    "page": "https://portal.ct.gov/SDE/Special-Education/Special-Education-Legal-and-Due-Process",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Entitlement to FAPE starts on the third birthday. A child is a person under 21, and services continue through the end of the school year in which the student turns 21.",
+   "program_name_notes": "Parents' rights are in the Procedural Safeguards Notice. Rights transfer to the student at age 18 in most cases.",
+   "notable": [
+    {
+     "topic": "Restraint and seclusion rules",
+     "summary": "Connecticut's special education regulations include rules on the use of restraint and seclusion.",
+     "citation": "R.C.S.A. 10-76a-1 to 10-76l-1",
+     "url": "https://portal.ct.gov/-/media/sde/special-education/regulations-of-connecticut-state-agencies-department-of-education-children-requiring-special-educati.pdf",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [],
+   "gaps": [
+    "Procedural safeguards notice revised March 2021; a newer version was not found.",
+    "Statute page is the whole chapter 164; only the table of contents heading for 10-76a was read, not section text.",
+    "Regulations PDF is the SDE copy (Rev. 2015 per SDE page)."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "DE",
+   "name": "Delaware",
+   "agency": {
+    "name": "Delaware Department of Education",
+    "url": "https://education.delaware.gov/"
+   },
+   "special_ed_page": "https://education.delaware.gov/legacy/home/instruction-and-assessment/exceptional-children/special-education/",
+   "parent_rights_page": "https://education.delaware.gov/legacy/wp-content/uploads/sites/4/2026/07/de-procedural-safeguards-july-2026.pdf",
+   "regulations": {
+    "citation": "14 Del. Admin. Code 923 (Children with Disabilities Subpart B: General Duties and Eligibility of Agencies)",
+    "url": "https://archive.regulations.delaware.gov/AdminCode/title14/900/923.pdf"
+   },
+   "statute": {
+    "citation": "14 Del. C. ch. 31 (Exceptional Children)",
+    "url": "https://delcode.delaware.gov/title14/c031/index.html"
+   },
+   "dispute_resolution": {
+    "page": "https://education.delaware.gov/legacy/home/instruction-and-assessment/exceptional-children/special-education/for-families/rights-and-disputes",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "From the third birthday until the student gets a regular high school diploma or until August 31 of the school year in which the student turns 22, whichever comes first.",
+   "program_name_notes": "Mediation and IEP facilitation are offered through the SPARC program. Developmental delay applies to ages 3 through 9.",
+   "notable": [
+    {
+     "topic": "Free mediation and IEP facilitation (SPARC)",
+     "summary": "The state contracts with the University of Delaware's Conflict Resolution Program to offer mediation and IEP facilitation, if all parties agree.",
+     "citation": null,
+     "url": "https://education.delaware.gov/legacy/home/instruction-and-assessment/exceptional-children/special-education/for-families/rights-and-disputes",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Due process hearing panel",
+     "summary": "Due process complaints are heard by a three-member panel and can cover violations within two years.",
+     "citation": null,
+     "url": "https://education.delaware.gov/legacy/home/instruction-and-assessment/exceptional-children/special-education/for-families/rights-and-disputes",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "New procedural safeguards notice",
+     "summary": "The state posted a July 2026 procedural safeguards notice with translations (Spanish, Haitian Creole, Turkish, Arabic, Portuguese).",
+     "citation": null,
+     "url": "https://education.delaware.gov/legacy/home/instruction-and-assessment/exceptional-children/special-education/for-families/rights-and-disputes",
+     "effective_or_updated": "2026-07",
+     "year": 2026
+    }
+   ],
+   "gaps": [
+    "Pages are under a 'legacy' section of the state site and may move.",
+    "Regulation 923 page shows latest amendment 28 DE Reg. 729 (04/01/25); what changed was not summarized.",
+    "The July 2026 procedural safeguards PDF link was taken from the Rights and Disputes page and the PDF itself was not opened."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "DC",
+   "name": "District of Columbia",
+   "agency": {
+    "name": "Office of the State Superintendent of Education (OSSE)",
+    "url": "https://osse.dc.gov/"
+   },
+   "special_ed_page": "https://osse.dc.gov/service/parent-community-and-stakeholder-special-education-information",
+   "parent_rights_page": "https://osse.dc.gov/publication/rights-parents-students-disabilities-idea-part-b-notice-procedural-safeguards",
+   "regulations": {
+    "citation": "5-E DCMR Chapter 30 (Special Education), final rulemaking notice by OSSE",
+    "url": "https://osse.dc.gov/publication/notice-final-rulemaking-district-columbia-municipal-regulations-dcmr-title-5-chapter-30"
+   },
+   "statute": null,
+   "dispute_resolution": {
+    "page": "https://osse.dc.gov/page/special-education-dispute-resolution",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": null,
+   "program_name_notes": "OSSE acts as the state education agency. Families can also use the Office of the Ombudsman for Public Education and the Office of the Student Advocate.",
+   "notable": [
+    {
+     "topic": "Parent support offices",
+     "summary": "OSSE lists the DC Special Education Hub, Advocates for Justice and Education (parent training center), the Office of the Ombudsman for Public Education and the Office of the Student Advocate.",
+     "citation": null,
+     "url": "https://osse.dc.gov/service/parent-community-and-stakeholder-special-education-information",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [],
+   "gaps": [
+    "D.C. statute for special education not confirmed on an official site; set to null.",
+    "Regulations link is OSSE's 2018 final rulemaking notice, not the codified text on dcregs.dc.gov.",
+    "Procedural safeguards notice page is dated September 2018.",
+    "Eligibility ages not stated in sources opened."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "FL",
+   "name": "Florida",
+   "agency": {
+    "name": "Florida Department of Education",
+    "url": "https://www.fldoe.org/"
+   },
+   "special_ed_page": "https://www.fldoe.org/academics/exceptional-student-edu/",
+   "parent_rights_page": "https://www.fldoe.org/academics/exceptional-student-edu/beess-resources/presentations-pubs",
+   "regulations": {
+    "citation": "Fla. Admin. Code Chapter 6A-6 (including Rule 6A-6.03028, FAPE and IEPs)",
+    "url": "https://www.flrules.org/gateway/ChapterHome.asp?Chapter=6A-6"
+   },
+   "statute": {
+    "citation": "Fla. Stat. s. 1003.57 (Exceptional students instruction)",
+    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1003/Sections/1003.57.html"
+   },
+   "dispute_resolution": {
+    "page": "https://www.fldoe.org/academics/exceptional-student-edu/dispute-resolution/",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 to 21 for exceptional student education (ESE). Birth through age 2 is covered by separate early-intervention categories.",
+   "program_name_notes": "Florida calls special education 'Exceptional Student Education (ESE)'. Gifted is also an ESE category. Other terms: Developmentally Delayed (DD), Established Conditions (EC), Emotional/Behavioral Disability (E/BD), Hospital Homebound (HH). FDLRS offers parent services.",
+   "notable": [
+    {
+     "topic": "Seclusion and restraint",
+     "summary": "Seclusion and mechanical restraint are banned for school staff for students with IEPs. Physical restraint is allowed only for imminent serious injury, and parents must be told in writing the same school day.",
+     "citation": "Fla. Stat. s. 1003.573",
+     "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1003/Sections/1003.573.html",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Family Empowerment Scholarship (students with unique abilities)",
+     "summary": "Scholarship money for eligible students with disabilities (IEP or a qualifying diagnosis) can be used for private school tuition, tutoring, therapies and other approved costs.",
+     "citation": "Fla. Stat. s. 1002.394",
+     "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1002/Sections/1002.394.html",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Autism health insurance coverage",
+     "summary": "Certain group health plans must cover autism screening and treatment such as ABA, speech, occupational and physical therapy, with yearly and lifetime dollar caps. Individual-market and small-employer plans are excluded.",
+     "citation": "Fla. Stat. s. 627.6686",
+     "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0627/Sections/0627.6686.html",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [],
+   "gaps": [
+    "No 2024-2026 change was confirmed to a Florida official source beyond the rule date shown below.",
+    "The flrules.org page for Rule 6A-6.03028 shows an effective date of 2024-08-27 but also lists a withdrawal notice published 2026-08-21; its current status was not resolved.",
+    "Effective dates for the notable items were not confirmed on the pages fetched.",
+    "Upper age limit (for example, through the school year a student turns 22) was not stated on the FLDOE eligibility page."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "GA",
+   "name": "Georgia",
+   "agency": {
+    "name": "Georgia Department of Education",
+    "url": "https://www.gadoe.org/"
+   },
+   "special_ed_page": "https://gadoe.org/special-education/",
+   "parent_rights_page": null,
+   "regulations": {
+    "citation": "Ga. Comp. R. & Regs. Subject 160-4-7 (State Board Rules on Special Education)",
+    "url": "https://rules.sos.ga.gov/gac/160-4-7"
+   },
+   "statute": null,
+   "dispute_resolution": {
+    "page": "https://www.gadoe.org/Curriculum-Instruction-and-Assessment/Special-Education-Services/Pages/Dispute-Resolution.aspx",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21 under State Board Rule 160-4-7-.05.",
+   "program_name_notes": "Georgia uses 'Significant Developmental Delay (SDD)' for ages 3 to 9 and 'Emotional and Behavioral Disorder' as a category. GNETS is a state network for students with severe emotional and behavioral needs. GLRS offers regional support.",
+   "notable": [
+    {
+     "topic": "Georgia Special Needs Scholarship",
+     "summary": "Eligible students who had an IEP in a Georgia public school and meet residency and enrollment rules can get a state scholarship to attend a participating private school. Preschool and homeschooled students are not eligible.",
+     "citation": "State Board Rule 160-5-1-.34",
+     "url": "https://apps.gadoe.org/sboe/SBOE%20Rules/160-5-1-.34.pdf",
+     "effective_or_updated": "2025-03-12"
+    },
+    {
+     "topic": "Seclusion and restraint",
+     "summary": "Seclusion, prone, mechanical and chemical restraint are banned for all students. Physical restraint is allowed only for immediate danger, and parents must be told in writing within one school day.",
+     "citation": "State Board Rule 160-5-1-.35",
+     "url": "https://apps.gadoe.org/sboe/SBOE%20Rules/160-5-1-.35.pdf",
+     "effective_or_updated": "2010-07-29"
+    },
+    {
+     "topic": "Procedural safeguards notice timing",
+     "summary": "Districts give parents the rights notice once each school year and again at set points, such as a first evaluation request, a first complaint or hearing request, or on request.",
+     "citation": "State Board Rule 160-4-7-.09",
+     "url": "https://apps.gadoe.org/sboe/SBOE%20Rules/160-4-7-.09.pdf",
+     "effective_or_updated": "2013-05-29"
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Special Needs Scholarship rule updated",
+     "summary": "The State Board rule for the Georgia Special Needs Scholarship was adopted in its current form in early 2025.",
+     "citation": "State Board Rule 160-5-1-.34",
+     "url": "https://apps.gadoe.org/sboe/SBOE%20Rules/160-5-1-.34.pdf",
+     "effective_or_updated": "2025-03-12",
+     "year": 2025
+    }
+   ],
+   "gaps": [
+    "No GaDOE parent rights / procedural safeguards landing page was confirmed (the guessed Parent-Rights.aspx URL returned 404); rule 160-4-7-.09 is the closest confirmed source.",
+    "Georgia statute (O.C.G.A. 20-2-152) was not confirmed on an official site.",
+    "gadoe.org/special-education/ returned page metadata only; links on it could not be verified.",
+    "The GSNS landing page returned metadata only; the rule PDF was used instead.",
+    "The 'state rules that exceed IDEA' document is dated 2018 and was not used as a source."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "HI",
+   "name": "Hawaii",
+   "agency": {
+    "name": "Hawaii State Department of Education",
+    "url": "https://hawaiipublicschools.org/"
+   },
+   "special_ed_page": "https://hawaiipublicschools.org/school-services/what-is-special-education/",
+   "parent_rights_page": "https://hawaiipublicschools.org/school-services/parent-rights/",
+   "regulations": {
+    "citation": "Hawaii Administrative Rules Title 8, Chapter 60 (Provision of a Free Appropriate Public Education for a Student with a Disability)",
+    "url": "https://boe.hawaii.gov/wp-content/uploads/2024/07/60-Provision-of-a-Free-Appropriate-Public-Education-for-a-Student-with-a-Disability.pdf"
+   },
+   "statute": null,
+   "dispute_resolution": {
+    "page": "https://hawaiipublicschools.org/school-services/parent-rights/dispute-resolutions-and-mediations/",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "HIDOE says services are for ages 3 through 21. The rule text (HAR 8-60-3 and 8-60-38) uses age ranges that read as 3 to 20, so check the rule for exact cutoffs.",
+   "program_name_notes": "Hawaii uses 'student with a disability', IEP and 'services plan' (for some private-school students). Disputes go through the Complaints Management Program or Office of Dispute Resolution; mediation is through the Mediation Center of the Pacific.",
+   "notable": [],
+   "recent_changes": [],
+   "gaps": [
+    "Hawaii Revised Statutes citation (HRS 302A-1112 is cited as authority in the rules) could not be opened (403), so statute is null.",
+    "Age cutoff conflict: HIDOE page says 3 through 21; HAR 8-60 text reads 3 to 20. Not resolved.",
+    "The rule PDF fetch was truncated partway; later sections were not read. Rule sections are marked effective 2009-11-23.",
+    "No state-specific notable laws or 2024-2026 changes were confirmed on official sites."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "ID",
+   "name": "Idaho",
+   "agency": {
+    "name": "Idaho State Department of Education",
+    "url": "https://www.sde.idaho.gov/"
+   },
+   "special_ed_page": "https://www.sde.idaho.gov/sped/",
+   "parent_rights_page": "https://www.sde.idaho.gov/about-us/departments/special-education/dispute-resolution/",
+   "regulations": {
+    "citation": "IDAPA 08.02.03.109 (Special Education) and the Idaho Special Education Manual",
+    "url": "https://adminrules.idaho.gov/rules/current/08/080203.pdf"
+   },
+   "statute": {
+    "citation": "Idaho Code Title 33, Chapter 20 (Education of Exceptional Children), s. 33-2001",
+    "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH20/SECT33-2001/"
+   },
+   "dispute_resolution": {
+    "page": "https://www.sde.idaho.gov/sped/dispute/",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through the semester the student turns 21 (Idaho Special Education Manual). Birth to age 2 is covered by Part C.",
+   "program_name_notes": "Idaho calls the group that writes the plan the 'IEP team'. 'Developmental delay' is an optional category for ages 3 to 9. Idaho Parents Unlimited (IPUL) is the parent training center named in the manual.",
+   "notable": [
+    {
+     "topic": "Parental Choice Tax Credit",
+     "summary": "Families can claim a refundable credit for approved private education costs: up to $5,000 per student, or up to $7,500 for a student with disabilities documented by an IEP or an Idaho-licensed provider. Statewide cap is $50 million per year.",
+     "citation": "Idaho Code s. 63-3029N",
+     "url": "https://legislature.idaho.gov/statutesrules/idstat/title63/t63ch30/sect63-3029n/",
+     "effective_or_updated": "2026"
+    }
+   ],
+   "recent_changes": [],
+   "gaps": [
+    "The Special Education Manual cover reads 'July 1, 2026' while footers say 'created 07/01/2025'; the effective date was not resolved.",
+    "The IDAPA 08.02.03 PDF shows no overall effective date.",
+    "The Procedural Safeguards Notice file link itself was not opened; the dispute resolution page lists it.",
+    "Chapter 20 statute page only confirmed for s. 33-2001 (definitions)."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "IL",
+   "name": "Illinois",
+   "agency": {
+    "name": "Illinois State Board of Education",
+    "url": "https://www.isbe.net/"
+   },
+   "special_ed_page": "https://www.isbe.net/specialeducation",
+   "parent_rights_page": "https://www.isbe.net/Documents/Parent-Guide-Special-Ed.pdf",
+   "regulations": {
+    "citation": "23 Ill. Adm. Code Part 226 (Special Education)",
+    "url": "https://www.ilga.gov/Commission/jcar/admincode/JCARTitlePart.asp?Title=023&Part=0226"
+   },
+   "statute": null,
+   "dispute_resolution": {
+    "page": "https://www.isbe.net/Pages/Special-Education-Effective-Dispute-Resolution.aspx",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Birth through age 21. Services end the day before the 22nd birthday, or at the end of that school year if the birthday falls during it (ISBE Parent Guide, 2025).",
+   "program_name_notes": "Illinois uses 'Child and Family Connections' for early intervention. Timelines count school days (for example, evaluation within 60 school days of consent). Developmental delay can apply ages 3 through 9.",
+   "notable": [
+    {
+     "topic": "Restraint, time out and isolated time out",
+     "summary": "Prone restraint is banned in Illinois schools. Other physical restraint is allowed only for imminent danger of serious harm. Parents must get notice within one business day and can request a meeting; repeated use triggers a review meeting.",
+     "citation": "Public Act 102-0339 (ISBE fact sheet)",
+     "url": "https://www.isbe.net/Documents/Public-Act-102-0339-fact-sheet.pdf",
+     "effective_or_updated": "2023"
+    }
+   ],
+   "recent_changes": [],
+   "gaps": [
+    "Illinois School Code Article 14 (105 ILCS 5/14) could not be opened on ilga.gov (blocked by robots.txt), so statute is null.",
+    "The ISBE procedural safeguards notice PDF could not be opened (robots.txt); the 2025 Parent Guide is used instead.",
+    "ISBE landing and dispute pages show an 'archived' notice and unrendered title placeholders; the content loaded but may be outdated.",
+    "Part 226 text shows last amendment effective 2023-02-06; later amendments not checked.",
+    "The effective date of Public Act 102-0339 was not stated on the fact sheet.",
+    "No 2024-2026 change confirmed."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "IN",
+   "name": "Indiana",
+   "agency": {
+    "name": "Indiana Department of Education",
+    "url": "https://www.in.gov/doe/"
+   },
+   "special_ed_page": "https://www.in.gov/doe/students/special-education/",
+   "parent_rights_page": "https://www.in.gov/doe/files/Notice-of-Procedural-Safeguards-English-August-2025.pdf",
+   "regulations": {
+    "citation": "511 IAC 7-32 through 7-50 (Article 7, Special Education Rules)",
+    "url": "https://www.in.gov/doe/files/Special-Education-Rules-Title-511-Article-7-May-2024.pdf"
+   },
+   "statute": null,
+   "dispute_resolution": {
+    "page": "https://www.in.gov/doe/students/special-education/dispute-resolution/",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "From age 3 through the school year the student turns 22, unless the case conference committee decides the student leaves earlier or the student earns a diploma (511 IAC 7-32-90, 7-33-1, 7-33-2).",
+   "program_name_notes": "Indiana calls the IEP team the 'Case Conference Committee (CCC)'. Special education rules are called 'Article 7'. Complaints, mediation and hearings run through the I-CHAMP online portal.",
+   "notable": [],
+   "recent_changes": [
+    {
+     "topic": "Due process hearings move to Administrative Law Judges",
+     "summary": "Due process hearing requests filed on or after July 1, 2025 are handled by Administrative Law Judges at the Office of Administrative Law Proceedings under IC 20-35-14.",
+     "citation": "IC 20-35-14",
+     "url": "https://www.in.gov/doe/students/special-education/dispute-resolution/",
+     "effective_or_updated": "2025-07-01",
+     "year": 2025
+    }
+   ],
+   "gaps": [
+    "Indiana Code Title 20, Article 35 could not be opened (iga.in.gov needs JavaScript), so statute is null.",
+    "The Indiana Register page for Article 7 did not render; the IDOE-hosted PDF (May 2024) is used.",
+    "The Notice of Procedural Safeguards PDF fetch was truncated; title and August 2025 date were confirmed.",
+    "The dispute resolution page says facilitated IEP services are paused Oct 1 to Nov 15 (2026); filing deadlines are not listed there.",
+    "Seclusion and restraint commission page was listed but not opened."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "IA",
+   "name": "Iowa",
+   "agency": {
+    "name": "Iowa Department of Education",
+    "url": "https://educate.iowa.gov/"
+   },
+   "special_ed_page": "https://educate.iowa.gov/pk-12/special-education",
+   "parent_rights_page": "https://educate.iowa.gov/pk-12/special-education/parent-information",
+   "regulations": {
+    "citation": "Iowa Admin. Code 281, Chapter 41 (Special Education)",
+    "url": "https://www.legis.iowa.gov/docs/iac/chapter/281.41.pdf"
+   },
+   "statute": {
+    "citation": "Iowa Code Chapter 256B (Special Education)",
+    "url": "https://www.legis.iowa.gov/docs/ico/chapter/256B.pdf"
+   },
+   "dispute_resolution": {
+    "page": "https://educate.iowa.gov/pk-12/special-education/dispute-resolution",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Birth to the 21st birthday. Some students can be served up to age 24 in limited cases, such as after an accident or long illness, with state approval (281-41.102; Iowa Code 256B.8).",
+   "program_name_notes": "Iowa uses 'Area Education Agency (AEA)' to provide special education support to districts. The team is the 'IEP team'. Early childhood special education (ECSE) covers children under 6. The birth-to-3 program is Early ACCESS.",
+   "notable": [
+    {
+     "topic": "Restraint and seclusion rules",
+     "summary": "Prone and mechanical restraint are banned. Restraint and seclusion are allowed only for imminent harm after less restrictive options fail. Schools must tell parents within one hour or by end of day and send a written report within three school days.",
+     "citation": "281 IAC Chapter 103",
+     "url": "https://www.legis.iowa.gov/docs/ACO/chapter/281.103.pdf",
+     "effective_or_updated": "2024-05-22"
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "AEA law changes (HF 2612)",
+     "summary": "House File 2612 changed how AEAs are accredited, adding a focus on students with disabilities, and changed AEA funding starting July 1, 2024.",
+     "citation": "2024 Iowa Acts, HF 2612",
+     "url": "https://educate.iowa.gov/pk-12/hf2612-implementation",
+     "effective_or_updated": "2024-03-27",
+     "year": 2024
+    }
+   ],
+   "gaps": [
+    "The state dispute resolution page has no link labeled 'procedural safeguards'; the parent-information page offers the manuals (ages 3-21 English edition dated 2023).",
+    "Chapter 41 was amended effective 2026-01-14 (ARC 9811C and 9812C); the content of those changes was not read.",
+    "The Chapter 41 PDF fetch gave no load confirmation wording, but the text and 12/10/25 header were returned.",
+    "Iowa Code chapter 256B was fetched from the 2026 Code PDF; the PDF carries no stated effective date."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "KS",
+   "name": "Kansas",
+   "agency": {
+    "name": "Kansas State Department of Education",
+    "url": "https://www.ksde.gov/"
+   },
+   "special_ed_page": "https://www.ksde.gov/policy-and-funding/special-education",
+   "parent_rights_page": "https://www.ksde.gov/policy-and-funding/special-education/special-education-law/notices-and-forms/parents-rights",
+   "regulations": {
+    "citation": "K.A.R. 91-40 (Special Education regulations)",
+    "url": "https://www.ksde.gov/policy-and-funding/special-education/special-education-law/statutes-and-regulations"
+   },
+   "statute": {
+    "citation": "Special Education for Exceptional Children Act, K.S.A. 72-3403 et seq. (Chapter 72, Article 34)",
+    "url": "https://www.kslegislature.gov/li/b2025_26/statute/072_000_0000_chapter/072_034_0000_article/"
+   },
+   "dispute_resolution": {
+    "page": "https://www.ksde.gov/policy-and-funding/special-education/special-education-law/dispute-resolution",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": null,
+   "program_name_notes": "Kansas calls students 'exceptional children', a term that includes gifted students; Kansas gives gifted students due process rights. Parent rights pass to the student at 18. Developmental delay covers ages 3 through 9. Kansas calls a state complaint a 'formal complaint'.",
+   "notable": [],
+   "recent_changes": [],
+   "gaps": [
+    "The K.A.R. 91-40 page on sos.ks.gov returned 403, so the regulations URL points to the KSDE statutes-and-regulations page that lists it.",
+    "Eligibility ages: no single age range was stated in sources read; the statute leaves school ages to State Board rules.",
+    "An older PDF of Article 9 (K.S.A. 72-961 et seq.) was fetched but the act was recodified to Article 34 (72-3403 et seq.), which KSDE lists; the Article 34 page was confirmed as special education (e.g., 72-3430 Parental rights).",
+    "No state-specific notable laws or 2024-2026 changes were confirmed on official sites."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "KY",
+   "name": "Kentucky",
+   "agency": {
+    "name": "Kentucky Department of Education",
+    "url": "https://www.education.ky.gov/"
+   },
+   "special_ed_page": "https://www.education.ky.gov/specialed/excep/Pages/default.aspx",
+   "parent_rights_page": "https://www.education.ky.gov/specialed/excep/Pages/FamParRights.aspx",
+   "regulations": {
+    "citation": "707 KAR Chapter 1 (Programs for Exceptional Children), e.g., 707 KAR 1:002 Definitions and 1:320 IEP",
+    "url": "https://apps.legislature.ky.gov/law/kar/titles/707/001/002/"
+   },
+   "statute": {
+    "citation": "KRS 157.200 (Definitions for KRS 157.200 to 157.290)",
+    "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=40170"
+   },
+   "dispute_resolution": {
+    "page": "https://www.education.ky.gov/specialed/excep/Pages/Dispute_Resolution_Process.aspx",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Under age 21 (KRS 157.200). The developmental delay category applies to ages 3 through 8.",
+   "program_name_notes": "Kentucky calls the IEP team the 'Admissions and Release Committee (ARC)'. Transition planning starts in the eighth-grade year or at age 14. Formal complaints go to the Office of Special Education and Early Learning (OSEEL).",
+   "notable": [
+    {
+     "topic": "Physical restraint and seclusion",
+     "summary": "Mechanical, chemical, prone and supine restraint are banned. Physical restraint and seclusion are allowed only for imminent danger with trained staff. Parents must be notified within 24 hours and can request a debrief within five school days.",
+     "citation": "704 KAR 7:160",
+     "url": "https://apps.legislature.ky.gov/law/kar/titles/704/007/160/",
+     "effective_or_updated": "2026-06-03"
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "IEP regulation certified",
+     "summary": "707 KAR 1:320 (Individual Education Program) shows a certified effective date of June 9, 2025.",
+     "citation": "707 KAR 1:320",
+     "url": "https://apps.legislature.ky.gov/law/kar/titles/707/001/320/",
+     "effective_or_updated": "2025-06-09",
+     "year": 2025
+    }
+   ],
+   "gaps": [
+    "The statute page showed a version 'effective until July 15, 2026'; a newer version after that date was not checked.",
+    "The KDE landing page title read 'Special Education Regulations and Statute'; no separate main special education page was confirmed.",
+    "The chapter-level 707 KAR 1 page was not opened; 1:002 is used as the link.",
+    "The 704 KAR 7:160 effective date is a 'certified' date from the regulation history line."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "LA",
+   "name": "Louisiana",
+   "agency": {
+    "name": "Louisiana Department of Education",
+    "url": "https://doe.louisiana.gov/"
+   },
+   "special_ed_page": "https://doe.louisiana.gov/topic-pages/students-with-disabilities",
+   "parent_rights_page": "https://doe.louisiana.gov/docs/default-source/students-with-disabilities/louisiana's-educational-rights-of-children-with-disabilities.pdf?sfvrsn=65a26f73_5",
+   "regulations": {
+    "citation": "Bulletin 1706 (La. Admin. Code tit. 28, pt. XLIII), Regulations for Implementation of the Children with Exceptionalities Act",
+    "url": "https://www.doa.la.gov/media/fcajmeji/28v43.docx"
+   },
+   "statute": {
+    "citation": "La. R.S. 17:1941 et seq.",
+    "url": "https://legis.la.gov/legis/Law.aspx?d=80045"
+   },
+   "dispute_resolution": {
+    "page": "https://doe.louisiana.gov/families-and-students/family-support-resources/family-special-education-resources/dispute-resolution",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21 under state law (R.S. 17:1941). Birth to 2 is early intervention through a different state agency.",
+   "program_name_notes": "Louisiana law and rules say 'students with exceptionalities' and 'Children with Exceptionalities Act' (this also covers gifted and talented students). The state's parent rights handbook is called 'Louisiana's Educational Rights of Children with Disabilities.' Schools are called local education agencies (LEAs).",
+   "notable": [
+    {
+     "topic": "Special Education Ombudsman and family help",
+     "summary": "The state education department lists a Special Education Ombudsman and encourages families to start with their local special education director before using state-level options.",
+     "citation": null,
+     "url": "https://doe.louisiana.gov/families-and-students/family-support-resources/family-special-education-resources",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "School choice program for certain students with exceptionalities",
+     "summary": "The state describes a School Choice Program for Certain Students with Exceptionalities that provides tuition assistance in some districts.",
+     "citation": null,
+     "url": "https://doe.louisiana.gov/families-and-students/family-support-resources/family-special-education-resources",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Seclusion and restraint limits",
+     "summary": "State guidance describes Act 479, which limits seclusion and physical restraint for students with exceptionalities, requires reporting, and requires cameras in special education classrooms.",
+     "citation": "Act 479",
+     "url": "https://doe.louisiana.gov/docs/default-source/academics/seclusion-and-restraint_one-pager.pdf?sfvrsn=95643ab8_1",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Kindergarten dyslexia screening",
+     "summary": "Under Act 266, every kindergartener is screened for dyslexia in the second half of the kindergarten year using a screener designed only for that purpose.",
+     "citation": "Act 266",
+     "url": "https://doe.louisiana.gov/docs/default-source/students-with-disabilities/faq-act-266-k-dyslexia-screening-4-9-2024.pdf?sfvrsn=cc856e18_4",
+     "effective_or_updated": "2024"
+    },
+    {
+     "topic": "Applied Behavior Analysis guidance",
+     "summary": "The state education department posts guidance on applied behavior analysis tied to Act 745.",
+     "citation": "Act 745",
+     "url": "https://doe.louisiana.gov/families-and-students/family-support-resources/family-special-education-resources",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Parent rights handbook updated",
+     "summary": "The state's procedural safeguards handbook for families carries a May 2025 date.",
+     "citation": null,
+     "url": "https://doe.louisiana.gov/docs/default-source/students-with-disabilities/louisiana's-educational-rights-of-children-with-disabilities.pdf?sfvrsn=65a26f73_5",
+     "effective_or_updated": "2025-05",
+     "year": "2025"
+    },
+    {
+     "topic": "Bulletin 1706 amended",
+     "summary": "The state's administrative code index lists Bulletin 1706 as last amended August 2026.",
+     "citation": "LAC 28:XLIII",
+     "url": "https://www.doa.la.gov/doa/osr/louisiana-administrative-code/",
+     "effective_or_updated": "2026-08",
+     "year": "2026"
+    }
+   ],
+   "gaps": [
+    "Bulletin 1706 .docx text could not be machine-read; its existence and title were confirmed only from the Division of Administration code index, not from the file contents.",
+    "Specific nature of the August 2026 Bulletin 1706 amendment not confirmed.",
+    "Statute URL confirmed for R.S. 17:1941 only; full chapter range not confirmed on one page.",
+    "Dates for ombudsman, school choice program, Act 479 and Act 745 items not confirmed."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "ME",
+   "name": "Maine",
+   "agency": {
+    "name": "Maine Department of Education, Office of Special Services & Inclusive Education",
+    "url": "https://www.maine.gov/doe"
+   },
+   "special_ed_page": "https://www.maine.gov/doe/learning/specialed",
+   "parent_rights_page": "https://www.maine.gov/doe/sites/maine.gov.doe/files/inline-files/Special%20Services%20-%20Procedural%20Safeguards%20%5BEnglish%5D%20-%207.26.2024.pdf",
+   "regulations": {
+    "citation": "Chapter 101, Maine Unified Special Education Regulation (MUSER), 05-071",
+    "url": "https://www.maine.gov/doe/sites/maine.gov.doe/files/inline-files/Special%20Services%20-%20MUSER%20-%208.21.2024.pdf"
+   },
+   "statute": {
+    "citation": "20-A M.R.S. ch. 301 and ch. 303 (Children with Disabilities)",
+    "url": "https://www.mainelegislature.org/legis/statutes/20-A/title20-Ach303sec0.html"
+   },
+   "dispute_resolution": {
+    "page": "https://www.maine.gov/doe/learning/specialed/dueprocess",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Early intervention from birth to under age 3. Special education from age 3 up to (but not including) age 22. Child Development Services provides services for ages 3 to 5.",
+   "program_name_notes": "The state rule is called MUSER (Maine Unified Special Education Regulation). The IEP is developed by an 'IEP Team' for ages 3 to 22, and an 'IFSP Team' for birth to 2. Local school districts are called school administrative units (SAUs). Child Development Services handles ages 3 to 5.",
+   "notable": [
+    {
+     "topic": "Surrogate parents",
+     "summary": "State law has a section on appointing surrogate parents for children who need one.",
+     "citation": "20-A M.R.S. §7207-A",
+     "url": "https://www.mainelegislature.org/legis/statutes/20-A/title20-Ach303sec0.html",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Transition to adult services",
+     "summary": "State law has a section on transition to adult services for students with disabilities.",
+     "citation": "20-A M.R.S. §7258",
+     "url": "https://www.mainelegislature.org/legis/statutes/20-A/title20-Ach303sec0.html",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Early resolution option",
+     "summary": "Before a formal complaint or hearing, Department staff can explain the laws, options and remedies to help resolve a disagreement.",
+     "citation": null,
+     "url": "https://www.maine.gov/doe/learning/specialed/dueprocess",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "MUSER effective July 26, 2024",
+     "summary": "The current Chapter 101 rule shows an effective date of July 26, 2024, and the Department posted an updated procedural safeguards notice with the same date.",
+     "citation": "MUSER Chapter 101",
+     "url": "https://www.maine.gov/doe/sites/maine.gov.doe/files/inline-files/Special%20Services%20-%20MUSER%20-%208.21.2024.pdf",
+     "effective_or_updated": "2024-07-26",
+     "year": "2024"
+    }
+   ],
+   "gaps": [
+    "Maine DOE law page labels MUSER 'birth to age 20' while the rule text says ages 3 to under 22; the rule text was used.",
+    "Exact content of 20-A §7207-A and §7258 was confirmed only from section titles.",
+    "Statute URL uses http (official site)."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "MD",
+   "name": "Maryland",
+   "agency": {
+    "name": "Maryland State Department of Education",
+    "url": "https://msde.maryland.gov/"
+   },
+   "special_ed_page": "https://msde.maryland.gov/academics-0/special-education",
+   "parent_rights_page": "https://msde.maryland.gov/academics-0/special-education/publications-and-information",
+   "regulations": {
+    "citation": "COMAR 13A.05.01",
+    "url": "https://dsd.maryland.gov/regulations/Pages/13A.05.01.01.aspx"
+   },
+   "statute": {
+    "citation": "Md. Code, Education Article, Title 8, Subtitle 4 (§ 8-401 et seq.)",
+    "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=ged&section=8-401&enactments=false"
+   },
+   "dispute_resolution": {
+    "page": "https://msde.maryland.gov/academics-0/special-education/family-support-dispute-resolution-branch",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Birth through the end of the school year in which the student turns 21.",
+   "program_name_notes": "Maryland uses IEP for school-age children and IFSP for infants and toddlers (Maryland Infants and Toddlers Program). Dispute help comes from the Family Support and Dispute Resolution Branch. Maryland's parent rights document is called the 'Procedural Safeguards Notice' / 'Parental Rights'.",
+   "notable": [
+    {
+     "topic": "Autism Waiver",
+     "summary": "A Maryland Medicaid program run with MSDE that gives home and community services to eligible children and youth with autism, from age 1 through the semester they turn 21.",
+     "citation": null,
+     "url": "https://msde.maryland.gov/academics-0/special-education/autism-waiver",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Special Education Ombudsman information at IEP meetings",
+     "summary": "State law requires schools to give parents procedural safeguards plus information on the Special Education Ombudsman and legal help programs when explaining rights at IEP meetings.",
+     "citation": "Md. Code, Educ. §8-405",
+     "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=ged&section=8-405&enactments=false",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Extended IFSP Option",
+     "summary": "Families can keep early intervention services past the child's third birthday if the child qualifies for preschool special education.",
+     "citation": null,
+     "url": "https://msde.maryland.gov/academics-0/special-education/maryland-infants-and-toddlers-program",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [],
+   "gaps": [
+    "Direct link to the Procedural Safeguards Notice PDF could not be confirmed; the Publications and Information page lists it but the extracted page showed no link.",
+    "Statute section 8-401 confirmed; full subtitle title not shown on page.",
+    "No 2024-2026 change confirmed on an official source.",
+    "The effective date of the current COMAR 13A.05.01 text was not confirmed."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "MA",
+   "name": "Massachusetts",
+   "agency": {
+    "name": "Massachusetts Department of Elementary and Secondary Education",
+    "url": "https://www.doe.mass.edu/"
+   },
+   "special_ed_page": "https://www.doe.mass.edu/specialeducation/",
+   "parent_rights_page": "https://www.doe.mass.edu/specialeducation/families/prb/",
+   "regulations": {
+    "citation": "603 CMR 28.00",
+    "url": "https://www.doe.mass.edu/lawsregs/603cmr28.html"
+   },
+   "statute": {
+    "citation": "M.G.L. c. 71B (Children with Special Needs)",
+    "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter71B"
+   },
+   "dispute_resolution": {
+    "page": "https://www.doe.mass.edu/prs/",
+    "state_complaint": true,
+    "mediation": null,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21 under state law; eligibility ends when the student earns a high school diploma or its equivalent.",
+   "program_name_notes": "The state rules use 'Team' and 'IEP'. State complaints go through the Problem Resolution System (PRS) office. Hearings are held by the Bureau of Special Education Appeals (BSEA). The parent rights document is the 'Parent's Notice of Procedural Safeguards' (PNPS).",
+   "notable": [
+    {
+     "topic": "Time-out and seclusion rules",
+     "summary": "State rules at 603 CMR 46.00 on restraint and time-out are being amended: seclusion is defined to match the federal civil rights definition, time-out rooms must meet safety standards, and emergency seclusion has notice and reporting steps.",
+     "citation": "603 CMR 46.00; 603 CMR 18.00",
+     "url": "https://www.doe.mass.edu/specialeducation/policy/dese/advisories/memo-sy2025-2026-1.html",
+     "effective_or_updated": "2026-08-17"
+    },
+    {
+     "topic": "Parent's Notice of Procedural Safeguards in 19 languages",
+     "summary": "The state posts the parents' rights notice in English plus translations in 19 languages.",
+     "citation": null,
+     "url": "https://www.doe.mass.edu/specialeducation/families/prb/",
+     "effective_or_updated": "2025-05"
+    },
+    {
+     "topic": "Problem Resolution System",
+     "summary": "The state education department runs a Problem Resolution System office that takes special education and general education complaints.",
+     "citation": null,
+     "url": "https://www.doe.mass.edu/prs/",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Special education regulation amendments",
+     "summary": "The Board proposed changes to 603 CMR 28.00 on the IEP definition and discipline procedures after a 2025 change to M.G.L. c. 71B, section 3; the regulation page shows it was amended June 23, 2026.",
+     "citation": "603 CMR 28.00",
+     "url": "https://www.doe.mass.edu/news/news.aspx?id=27857",
+     "effective_or_updated": "2026-06-23",
+     "year": "2026"
+    },
+    {
+     "topic": "Time-out practices amendments",
+     "summary": "The Board adopted changes to 603 CMR 46.00 and 18.00 on time-out and seclusion; the state memo gives an effective date of August 17, 2026.",
+     "citation": "603 CMR 46.00",
+     "url": "https://www.doe.mass.edu/specialeducation/policy/dese/advisories/memo-sy2025-2026-1.html",
+     "effective_or_updated": "2026-08-17",
+     "year": "2025"
+    },
+    {
+     "topic": "Updated Parent's Notice of Procedural Safeguards",
+     "summary": "The notice was revised in May 2025 to add information about the district's use of MassHealth.",
+     "citation": null,
+     "url": "https://www.doe.mass.edu/specialeducation/families/prb/",
+     "effective_or_updated": "2025-05",
+     "year": "2025"
+    }
+   ],
+   "gaps": [
+    "Mediation not confirmed on pages that loaded; BSEA page mentions a Mediation Manual but details were not shown.",
+    "Specific text of the June 2026 amendment to 603 CMR 28.00 not read; adoption date taken from the regulation page.",
+    "Old www.doe.mass.edu/sped/ URLs partly return 404; new /specialeducation/ paths were used."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "MI",
+   "name": "Michigan",
+   "agency": {
+    "name": "Michigan Department of Education, Office of Special Education",
+    "url": "https://www.michigan.gov/mde"
+   },
+   "special_ed_page": "https://www.michigan.gov/mde/services/special-education",
+   "parent_rights_page": "https://www.michigan.gov/mde/services/special-education/evaluations-ieps/notice-consent",
+   "regulations": {
+    "citation": "Michigan Administrative Rules for Special Education (MARSE), R 340.1701 to R 340.1873",
+    "url": "https://www.michigan.gov/mde/services/special-education/laws-regs/marse"
+   },
+   "statute": {
+    "citation": "Revised School Code, MCL 380.1701 et seq.",
+    "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-380-1701"
+   },
+   "dispute_resolution": {
+    "page": "https://www.michigan.gov/mde/services/special-education/dispute-resolution-options",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Birth to age 26 with state and local funds. A student qualifies if not more than 25 years old on September 1 of the school year, and may finish that school year after turning 26. Federal IDEA Part B funds cover only through age 21.",
+   "program_name_notes": "The state rules are called MARSE. Services are planned through intermediate school districts (called 'intermediate school boards' in the statute). Free mediation and IEP facilitation come from Special Education Mediation Services (SEMS).",
+   "notable": [
+    {
+     "topic": "Services to age 26",
+     "summary": "Michigan offers special education to eligible adult learners through age 25 (until the school year ends if they turn 26), funded by state and local money.",
+     "citation": "R 340.1702; MCL 380.1711",
+     "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/specialeducation/iep/FAPE_AdultLearners.pdf",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Free mediation and IEP facilitation",
+     "summary": "Special Education Mediation Services provides free IEP facilitation and special education mediation.",
+     "citation": null,
+     "url": "https://www.michigan.gov/mde/services/special-education/dispute-resolution-options",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "MARSE promulgated June 27, 2024",
+     "summary": "The state's current special education rules page says MARSE was promulgated June 27, 2024.",
+     "citation": "MARSE",
+     "url": "https://www.michigan.gov/mde/services/special-education/laws-regs/marse",
+     "effective_or_updated": "2024-06-27",
+     "year": "2024"
+    }
+   ],
+   "gaps": [
+    "Exact effective date of the 2024 MARSE rules not stated separately on the page.",
+    "Statute covers special education sections of the Revised School Code; the 'Article' grouping was not confirmed.",
+    "Procedural safeguards PDF itself not opened; the page hosting it was confirmed."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "MN",
+   "name": "Minnesota",
+   "agency": {
+    "name": "Minnesota Department of Education",
+    "url": "https://education.mn.gov/"
+   },
+   "special_ed_page": "https://education.mn.gov/MDE/fam/sped/",
+   "parent_rights_page": null,
+   "regulations": {
+    "citation": "Minnesota Rules, chapter 3525 (Children with a Disability)",
+    "url": "https://www.revisor.mn.gov/rules/3525/"
+   },
+   "statute": {
+    "citation": "Minn. Stat. ch. 125A (Special Education and Special Programs)",
+    "url": "https://www.revisor.mn.gov/statutes/cite/125A"
+   },
+   "dispute_resolution": {
+    "page": "https://education.mn.gov/MDE/fam/sped/conf/",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": null,
+   "program_name_notes": "Minnesota rules refer to a 'pupil IEP manager' and offer a 'conciliation conference' and a 'facilitated team meeting' (a facilitated IEP) in addition to mediation and due process. Early childhood eligibility for birth through age 2 is set under a different state agency.",
+   "notable": [
+    {
+     "topic": "Restrictive procedures (restraint and seclusion)",
+     "summary": "Schools may use physical holding or seclusion only in an emergency, never as discipline; prone restraint is prohibited, parents must be notified, and seclusion is banned for children from birth through grade 3 as of September 1, 2024.",
+     "citation": "Minn. Stat. 125A.0942",
+     "url": "https://www.revisor.mn.gov/statutes/cite/125A.0942",
+     "effective_or_updated": "2023"
+    },
+    {
+     "topic": "Conciliation, mediation and facilitated meetings",
+     "summary": "Parents can ask for a conciliation conference within 10 days, and the state provides free mediation and facilitated team meetings.",
+     "citation": "Minn. Stat. 125A.091",
+     "url": "https://www.revisor.mn.gov/statutes/cite/125A.091",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Seclusion ban for birth through grade 3",
+     "summary": "State law bans seclusion of children from birth through grade 3 as of September 1, 2024 (section last amended in 2023).",
+     "citation": "Minn. Stat. 125A.0942",
+     "url": "https://www.revisor.mn.gov/statutes/cite/125A.0942",
+     "effective_or_updated": "2024-09-01",
+     "year": "2024"
+    }
+   ],
+   "gaps": [
+    "Parent rights / procedural safeguards page could not be fetched (blocked by robots.txt), so left null.",
+    "Eligibility ages not confirmed in the statute or rule pages opened.",
+    "MDE dispute page confirmed headings for complaints, mediation and hearings but individual sub-page URLs were not available.",
+    "Whether chapter 3525 is currently being replaced or amended was not checked."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "MS",
+   "name": "Mississippi",
+   "agency": {
+    "name": "Mississippi Department of Education",
+    "url": "https://mdek12.org/"
+   },
+   "special_ed_page": "https://mdek12.org/OSE",
+   "parent_rights_page": "https://mdek12.org/wp-content/uploads/sites/39/2025/10/procedural-safeguards-revised-10.21.25-RR.edits_v1.pdf",
+   "regulations": {
+    "citation": "State Board of Education Policy 7219 (Chapter 74, Rule 74.19), State Policies Regarding Children with Disabilities under IDEA",
+    "url": "https://www.mdek12.org/sites/default/files/documents/part-34-rule-74-19_20160614161027_365113.pdf"
+   },
+   "statute": {
+    "citation": "Miss. Code Ann. § 37-23-1 et seq. (cited sections include 37-23-137 and 37-23-143)",
+    "url": null
+   },
+   "dispute_resolution": {
+    "page": "https://mdek12.org/specialeducation/faq-for-families/",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 20, inclusive. Students who turn 21 during the school year may get extended school year services if their IEP committee decides.",
+   "program_name_notes": "Mississippi uses 'IEP Committee' and 'Multidisciplinary Evaluation Team.' It is a one-tier due process state: MDE runs the hearing and appeals go straight to court. The state also offers IEP facilitation as a dispute option.",
+   "notable": [
+    {
+     "topic": "Recording IEP meetings",
+     "summary": "State law lets parents or the school district audio record IEP meetings with 24 hours' notice.",
+     "citation": "Miss. Code §37-23-137",
+     "url": "https://mdek12.org/wp-content/uploads/sites/39/2025/10/procedural-safeguards-revised-10.21.25-RR.edits_v1.pdf",
+     "effective_or_updated": "2025"
+    },
+    {
+     "topic": "Free IEP facilitation",
+     "summary": "A neutral facilitator can join an IEP meeting if both sides agree and the request is made at least 10 days before the meeting.",
+     "citation": null,
+     "url": "https://mdek12.org/specialeducation/faq-for-families/",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Parent hotline",
+     "summary": "MDE lists a parent hotline at 1-877-544-0408 for special education questions.",
+     "citation": null,
+     "url": "https://mdek12.org/wp-content/uploads/sites/39/2025/10/procedural-safeguards-revised-10.21.25-RR.edits_v1.pdf",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Procedural safeguards notice revised October 2025",
+     "summary": "MDE revised its procedural safeguards notice in October 2025, including extended school year information.",
+     "citation": null,
+     "url": "https://mdek12.org/wp-content/uploads/sites/39/2025/10/procedural-safeguards-revised-10.21.25-RR.edits_v1.pdf",
+     "effective_or_updated": "2025-10-21",
+     "year": "2025"
+    }
+   ],
+   "gaps": [
+    "Official statute page (legislature or Secretary of State) could not be confirmed, so statute URL is null.",
+    "State Board policy PDF is the 2013 version (effective Sept 15, 2013); later amendments not checked.",
+    "MDE dispute resolution and specialeducation landing pages returned 403, so the FAQ page was used instead.",
+    "State school-choice or ESA program for students with disabilities not confirmed on an official site."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "MO",
+   "name": "Missouri",
+   "agency": {
+    "name": "Missouri Department of Elementary and Secondary Education",
+    "url": "https://dese.mo.gov/"
+   },
+   "special_ed_page": "https://dese.mo.gov/special-education",
+   "parent_rights_page": "https://dese.mo.gov/special-education/compliance/procedural-safeguards",
+   "regulations": {
+    "citation": "Missouri State Plan for Special Education (Regulations Implementing Part B of IDEA)",
+    "url": "https://dese.mo.gov/special-education/compliance/state-plan-special-education"
+   },
+   "statute": {
+    "citation": "RSMo 162.670 et seq. (Special Educational Services)",
+    "url": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=162"
+   },
+   "dispute_resolution": {
+    "page": "https://dese.mo.gov/special-education/due-processchild-complaint",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 to 21 under Part B; birth to 3 is early intervention (Part C).",
+   "program_name_notes": "Missouri calls a state complaint a 'child complaint.' Parents receive a 'Parents' Bill of Rights' along with the procedural safeguards notice. The parent training center is MPACT.",
+   "notable": [
+    {
+     "topic": "Parents' Bill of Rights",
+     "summary": "State law requires DESE to publish a Parents' Bill of Rights, and districts must give it to parents when a child is found eligible and whenever the procedural safeguards notice is provided.",
+     "citation": "RSMo 161.850",
+     "url": "https://revisor.mo.gov/main/OneSection.aspx?section=161.850",
+     "effective_or_updated": "2009-08-28"
+    },
+    {
+     "topic": "Free mediation",
+     "summary": "Mediation is free and voluntary, and both the parent and the district must agree; requests can go to DESE's child complaint email.",
+     "citation": null,
+     "url": "https://dese.mo.gov/special-education/due-processchild-complaint",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "State Plan Part B update",
+     "summary": "DESE lists a Part B State Plan taking effect July 30, 2026, with changes to Regulation IV (FAPE, IEP, LRE), Regulation IX (caseloads) and Regulation XIII (private schools).",
+     "citation": null,
+     "url": "https://dese.mo.gov/special-education/compliance/state-plan-special-education",
+     "effective_or_updated": "2026-07-30",
+     "year": "2026"
+    }
+   ],
+   "gaps": [
+    "No CSR regulation citation confirmed; the State Plan page was used as the regulatory source.",
+    "Statute URL is the chapter 162 index; 162.670 confirmed there and on its own section page.",
+    "Exact Part B ages in the state plan were taken from the DESE page summary, not the plan text."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "MT",
+   "name": "Montana",
+   "agency": {
+    "name": "Montana Office of Public Instruction",
+    "url": "https://opi.mt.gov/"
+   },
+   "special_ed_page": "https://opi.mt.gov/Educators/School-Climate-Student-Wellness/Special-Education",
+   "parent_rights_page": "https://opi.mt.gov/Educators/School-Climate-Student-Wellness/Special-Education/Special-Education-Family-Resources",
+   "regulations": {
+    "citation": "Administrative Rules of Montana (ARM) Title 10, Chapter 16 (Special Education)",
+    "url": null
+   },
+   "statute": {
+    "citation": "MCA Title 20, Chapter 7, Part 4 (Special Education for Exceptional Children)",
+    "url": "https://mca.legmt.gov/bills/2019/mca/title_0200/chapter_0070/part_0040/sections_index.html"
+   },
+   "dispute_resolution": {
+    "page": "https://opi.mt.gov/Educators/School-Climate-Student-Wellness/Special-Education/Dispute-Resolution",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": null,
+   "program_name_notes": "Montana calls its eligibility paperwork an 'Evaluation Report' by an 'Evaluation Team.' OPI's informal help option is the Early Assistance Program. The state IEP and progress system is called AIM. Parent rights transfer to the student at age 18 (ARM 10.16.3502).",
+   "notable": [
+    {
+     "topic": "Dyslexia screening and intervention",
+     "summary": "Districts must screen students in their first year at a district school through grade 2 for dyslexia risk, and provide research-based interventions when needed.",
+     "citation": "MCA 20-7-469",
+     "url": "https://mca.legmt.gov/bills/mca/title_0200/chapter_0070/part_0040/section_0690/0200-0070-0040-0690.html",
+     "effective_or_updated": "2021"
+    },
+    {
+     "topic": "Early Assistance Program",
+     "summary": "OPI offers a free, informal way to get technical help and try to resolve disagreements before using formal options.",
+     "citation": null,
+     "url": "https://opi.mt.gov/Educators/Teaching-Learning/Special-Education/Dispute-Resolution",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Transfer of rights at 18",
+     "summary": "When a child with a disability turns 18, IDEA parental rights transfer to the child unless another legal arrangement applies.",
+     "citation": "ARM 10.16.3502",
+     "url": "https://opifiles.mt.gov/portals/182/Page%20Files/Special%20Education/Family%20Resources/Understanding%20Your%20Procedural%20Safeguards.pdf",
+     "effective_or_updated": "2025-11-18"
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Procedural safeguards guide revised",
+     "summary": "OPI's 'Understanding Your Procedural Safeguards' guide for families shows a November 18, 2025 revision.",
+     "citation": null,
+     "url": "https://opifiles.mt.gov/portals/182/Page%20Files/Special%20Education/Family%20Resources/Understanding%20Your%20Procedural%20Safeguards.pdf",
+     "effective_or_updated": "2025-11-18",
+     "year": "2025"
+    }
+   ],
+   "gaps": [
+    "No official ARM page could be loaded (rules.mt.gov returned an error), so the regulations URL is null.",
+    "Eligibility age range not stated on any official page opened.",
+    "Dispute page at /Educators/Teaching-Learning/... loaded and /School-Climate-Student-Wellness/... also loaded; the latter is used as current.",
+    "Statute index is the 2019 MCA edition; current edition not confirmed."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "NE",
+   "name": "Nebraska",
+   "agency": {
+    "name": "Nebraska Department of Education",
+    "url": "https://www.education.ne.gov/"
+   },
+   "special_ed_page": "https://www.education.ne.gov/sped/",
+   "parent_rights_page": "https://www.education.ne.gov/sped/parent-information/",
+   "regulations": {
+    "citation": "92 NAC 51 (Rule 51, Regulations and Standards for Special Education Programs), revised May 17, 2022",
+    "url": "https://www.education.ne.gov/wp-content/uploads/2017/10/Clean51_2022.pdf"
+   },
+   "statute": {
+    "citation": "Neb. Rev. Stat. 79-1110 to 79-1167 (Special Education Act)",
+    "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=79-1110"
+   },
+   "dispute_resolution": {
+    "page": "https://www.education.ne.gov/sped/dispute-resolution/",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Birth through the school year in which the child turns 21. School-age programs run from age 5 through the school year the student turns 21; infants and toddlers (birth to 3) are served through an IFSP.",
+   "program_name_notes": "Nebraska says a child is \"verified\" as having a disability (instead of \"found eligible\"). The evaluation group is the multidisciplinary evaluation team (MDT). The plan for school-age children is the IEP; for birth to 3 it is an Individualized Family Service Plan (IFSP).",
+   "notable": [],
+   "recent_changes": [],
+   "gaps": [
+    "Rule 51 PDF is the May 2022 revision; could not confirm on an official page that no later revision exists.",
+    "The NDE dispute resolution page showed a 'Coming Soon' heading for State Complaint, Due Process and Appeals, so the exact current process wording was not fully confirmed; the separate state complaint, mediation and due process pages each load.",
+    "Transition-planning starting age under Rule 51 not confirmed (text was cut off).",
+    "No state-specific notable laws or programs were confirmed on official sites."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "NV",
+   "name": "Nevada",
+   "agency": {
+    "name": "Nevada Department of Education",
+    "url": "https://doe.nv.gov/"
+   },
+   "special_ed_page": "https://doe.nv.gov/offices/office-of-comprehensive-student-services",
+   "parent_rights_page": "https://doe.nv.gov/offices/office-of-comprehensive-student-services/dispute-resolution",
+   "regulations": {
+    "citation": "Nevada Administrative Code (NAC) Chapter 388",
+    "url": "https://www.leg.state.nv.us/Division/Legal/LawLibrary/NAC/NAC-388.html"
+   },
+   "statute": {
+    "citation": "Nevada Revised Statutes (NRS) Chapter 388",
+    "url": "https://www.leg.state.nv.us/Division/Legal/LawLibrary/NRS/NRS-388.html"
+   },
+   "dispute_resolution": {
+    "page": "https://doe.nv.gov/offices/office-of-comprehensive-student-services/dispute-resolution",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21 (per the Nevada Department of Education's Office of Comprehensive Student Services).",
+   "program_name_notes": "Nevada rules spell out \"individualized educational program\" (IEP). Parents may see an \"IEP committee\" and an \"interim IEP.\" Nevada also offers free IEP facilitation as a dispute option. The parent-rights document is titled \"Special Education Rights of Parents & Students.\"",
+   "notable": [
+    {
+     "topic": "Restraint and aversive intervention limits",
+     "summary": "State law limits aversive intervention and physical and mechanical restraint for students with disabilities, with required reporting when restraint is used.",
+     "citation": "NRS 388.471 to 388.515",
+     "url": "https://www.leg.state.nv.us/Division/Legal/LawLibrary/NRS/NRS-388.html",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Dyslexia screening and IEP consideration",
+     "summary": "State law covers early literacy screening, IEP team consideration of instructional approaches for dyslexia, staff training, and a dyslexia resource guide.",
+     "citation": "NRS 388.439 to 388.447",
+     "url": "https://www.leg.state.nv.us/Division/Legal/LawLibrary/NRS/NRS-388.html",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Free IEP facilitation",
+     "summary": "Besides mediation, state complaint and due process, Nevada offers free IEP facilitation to help families and schools reach agreement.",
+     "citation": null,
+     "url": "https://doe.nv.gov/offices/office-of-comprehensive-student-services/dispute-resolution/iep-facilitation-individualized-education-program-facilitation",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Dyslexia guidance documents",
+     "summary": "The Nevada Department of Education released short guidance documents to help districts and charter schools identify and support students with dyslexia or at risk of it.",
+     "citation": null,
+     "url": "https://doe.nv.gov/news-media/2024-press-releases/nevada-department-of-education-releases-dyslexia-guidance-documents",
+     "effective_or_updated": "2024-08-08",
+     "year": 2024
+    }
+   ],
+   "gaps": [
+    "Could not read the text of NRS 388.417 and 388.435 (chunk was cut off), so the statutory age range was not confirmed from the statute; the 3-21 range comes from the NDE office page.",
+    "Restraint and dyslexia summaries are based on section headings in the NRS table of contents, not the full section text; effective dates not confirmed.",
+    "A separate dedicated procedural safeguards page was not found; the parent rights PDFs are linked from the dispute resolution page."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "NH",
+   "name": "New Hampshire",
+   "agency": {
+    "name": "New Hampshire Department of Education",
+    "url": "https://www.education.nh.gov/"
+   },
+   "special_ed_page": "https://www.education.nh.gov/who-we-are/division-of-learner-support/bureau-of-student-support/special-education",
+   "parent_rights_page": null,
+   "regulations": {
+    "citation": "N.H. Code of Administrative Rules, Ed 1100 (Standards for the Education of Children with Disabilities)",
+    "url": "https://gc.nh.gov/rules/state_agencies/ed1100.html"
+   },
+   "statute": {
+    "citation": "RSA Chapter 186-C (Special Education)",
+    "url": "https://gc.nh.gov/rsa/html/xv/186-c/186-c-mrg.htm"
+   },
+   "dispute_resolution": {
+    "page": "https://www.education.nh.gov/who-we-are/division-of-learner-support/bureau-of-student-support/special-education/complaints",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Generally ages 3 through 21 (RSA 186-C:2). State rules describe it as age 3 through under 22 for students without a regular high school diploma. Developmentally delayed children qualify from age 3 up to age 10. Early supports from birth to 3 are handled separately.",
+   "program_name_notes": "Uses \"IEP\" and \"IEP team\"; younger children in early supports have an IFSP. The state's parent-rights document is called the Procedural Safeguards Handbook.",
+   "notable": [],
+   "recent_changes": [],
+   "gaps": [
+    "parent_rights_page: the Procedural Safeguards Handbook PDFs found in search (Dec 2024 and Nov 2023 versions) returned 403 errors, so no confirmed URL.",
+    "The Dispute Resolution FAQs page returned 403. The complaints page confirms complaints, due process hearings and alternative dispute resolution are covered; it does not use the word 'mediation' in the summary I could read, so the mediation=true flag rests on 'alternative dispute resolution'.",
+    "Ed 1100 page lists amendments through 10-12-23; later amendments not confirmed.",
+    "Could not read the end of RSA 186-C, so an office of special education advocate (referenced in 186-C:5-a) was not confirmed as a notable item.",
+    "No confirmed recent changes or state-specific notable laws."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "NJ",
+   "name": "New Jersey",
+   "agency": {
+    "name": "New Jersey Department of Education",
+    "url": "https://www.nj.gov/education/"
+   },
+   "special_ed_page": "https://www.nj.gov/education/specialed/",
+   "parent_rights_page": "https://www.nj.gov/education/specialed/parents/",
+   "regulations": {
+    "citation": "N.J.A.C. 6A:14 (Special Education)",
+    "url": "https://www.nj.gov/education/code/current/title6a/chap14.pdf"
+   },
+   "statute": null,
+   "dispute_resolution": {
+    "page": "https://www.nj.gov/education/specialed/policy/disputeresolution",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21 (N.J.A.C. 6A:14-1.1). Districts may also serve some children younger than 3 or older than 21.",
+   "program_name_notes": "The evaluation and planning group is the \"child study team\" (school psychologist, learning disabilities teacher-consultant, and school social worker). The parent-rights booklet is called \"Parental Rights in Special Education\" (PRISE). Due process hearings go through the Office of Administrative Law.",
+   "notable": [
+    {
+     "topic": "Parental Rights in Special Education (PRISE) booklet",
+     "summary": "New Jersey's plain-language booklet explaining state and federal special education rights, available in many languages.",
+     "citation": null,
+     "url": "https://www.nj.gov/education/specialed/parents/",
+     "effective_or_updated": "2026"
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Updated PRISE booklet",
+     "summary": "The English PRISE booklet linked on the Department's parent page is dated June 2026; the page was last updated September 22, 2026.",
+     "citation": null,
+     "url": "https://www.nj.gov/education/specialed/parents/",
+     "effective_or_updated": "2026-06",
+     "year": 2026
+    }
+   ],
+   "gaps": [
+    "statute: no official New Jersey Legislature page for N.J.S.A. 18A:46 could be opened and confirmed.",
+    "Transition planning: the code text showed discussion at age 14 or younger if appropriate, but I did not read the full section to state the exact rule.",
+    "The 2023 proposed amendments to N.J.A.C. 6A:14 appeared in search but adoption status was not confirmed.",
+    "The PRISE English PDF itself was not opened; the link was read from the parent page."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "NM",
+   "name": "New Mexico",
+   "agency": {
+    "name": "New Mexico Public Education Department",
+    "url": "https://web.ped.nm.gov/"
+   },
+   "special_ed_page": "https://web.ped.nm.gov/bureaus/special-education/",
+   "parent_rights_page": "https://web.ped.nm.gov/bureaus/special-education/",
+   "regulations": {
+    "citation": "6.31.2 NMAC (Children with Disabilities / Gifted Children)",
+    "url": "https://www.srca.nm.gov/parts/title06/06.031.0002.html"
+   },
+   "statute": null,
+   "dispute_resolution": {
+    "page": "https://web.ped.nm.gov/bureaus/special-education/dispute-resolution/",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Generally ages 3 through 21, including a child who will turn 3 during the school year. An optional developmental delay category covers ages 3 through 9.",
+   "program_name_notes": "Uses \"IEP\" and \"IEP team.\" The state also offers a Facilitated IEP meeting option. Gifted children are covered under the same rule (6.31.2 NMAC). The Department's office is called the Office of Special Education.",
+   "notable": [
+    {
+     "topic": "Facilitated IEP meetings",
+     "summary": "New Mexico offers a facilitated IEP option, along with mediation, state complaints and due process hearings, to help resolve disagreements.",
+     "citation": null,
+     "url": "https://web.ped.nm.gov/bureaus/special-education/dispute-resolution/",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Gifted children covered in special education rule",
+     "summary": "New Mexico's special education rule also covers gifted children, who can receive IEPs.",
+     "citation": "6.31.2 NMAC",
+     "url": "https://www.srca.nm.gov/parts/title06/06.031.0002.html",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [],
+   "gaps": [
+    "statute: could not confirm the Public School Code special education section (NMSA 22-13-5) on an official New Mexico site; only a non-official site appeared.",
+    "6.31.2 NMAC shows effective July 1, 2020 with 2023 amendments; a 2025 proposed repeal-and-replace PED document exists but its adoption status and date could not be confirmed, so no recent change is listed.",
+    "The State Administrative Complaints Manual and Due Process manual (posted Dec 2025 per URL) carry no stated date inside the document; not listed as a recent change.",
+    "The mediation subpage URL under /bureaus/special-education/ was not opened; the main dispute resolution page covers mediation.",
+    "Procedural safeguards notice on the PED page is dated December 2020."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "NY",
+   "name": "New York",
+   "agency": {
+    "name": "New York State Education Department",
+    "url": "https://www.nysed.gov/"
+   },
+   "special_ed_page": "https://www.nysed.gov/special-education",
+   "parent_rights_page": "https://www.nysed.gov/special-education/procedural-safeguards-notice-rights-parents-children-disabilities",
+   "regulations": {
+    "citation": "8 NYCRR Part 200 (Regulations of the Commissioner of Education), with Part 201 for discipline safeguards",
+    "url": "https://www.nysed.gov/book/export/html/39851"
+   },
+   "statute": {
+    "citation": "N.Y. Education Law Article 89, sections 4401 to 4410-C (Children With Disabilities)",
+    "url": "https://www.nysenate.gov/legislation/laws/EDN/A89"
+   },
+   "dispute_resolution": {
+    "page": "https://www.nysed.gov/special-education/state-complaint",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "School-age students are eligible until they reach age 21, with the cutoff tied to September 1 (a student who has not turned 21 before September 1 is still eligible). Preschool services start at age 3 through a separate preschool process.",
+   "program_name_notes": "School-age children are served by the Committee on Special Education (CSE); preschoolers (ages 3 to 5) by the Committee on Preschool Special Education (CPSE). The plan is called an IEP. Due process is called an \"impartial hearing.\"",
+   "notable": [],
+   "recent_changes": [],
+   "gaps": [
+    "Age cutoff description is from Part 200.1 as summarized from the first 100,000 characters; the exact wording for preschool-to-school-age transition was not fully read.",
+    "The NYSED special education landing page loaded but returned no readable link list, so it is not confirmed which sub-pages it links.",
+    "No state-specific notable laws or programs were confirmed on official sites (e.g., NYC or dyslexia/autism insurance not researched).",
+    "No recent changes confirmed (a State Complaint Procedures Q&A shows 'Updated January 2025' in a search result, but that PDF was not opened)."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "NC",
+   "name": "North Carolina",
+   "agency": {
+    "name": "North Carolina Department of Public Instruction",
+    "url": "https://www.dpi.nc.gov/"
+   },
+   "special_ed_page": "https://www.dpi.nc.gov/districts-schools/classroom-resources/exceptional-children",
+   "parent_rights_page": "https://www.dpi.nc.gov/districts-schools/classroom-resources/exceptional-children/resources-for-families-students",
+   "regulations": {
+    "citation": "NC Policies Governing Services for Children with Disabilities (State Board of Education policies), amended March 2021",
+    "url": "https://www.dpi.nc.gov/policies-governing-students-children-disabilities/download"
+   },
+   "statute": {
+    "citation": "N.C. Gen. Stat. Chapter 115C, Article 9 (Education of Children With Disabilities), 115C-106 and following",
+    "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_115c/Article_9.pdf"
+   },
+   "dispute_resolution": {
+    "page": "https://www.dpi.nc.gov/districts-schools/classroom-resources/exceptional-children/dispute-resolution",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21. A student who has not graduated can keep receiving services until the end of the school year in which they turn 22.",
+   "program_name_notes": "The state office is called Exceptional Children (EC); you may hear \"EC services\" or \"EC program.\" The plan is an IEP (an IFSP for under 3). The parent-rights document is called \"Parent Rights & Responsibilities in Special Education.\" North Carolina's rules are numbered with an NC prefix (for example NC 1500 series).",
+   "notable": [],
+   "recent_changes": [
+    {
+     "topic": "Interim guidance for incarcerated youth",
+     "summary": "DPI posted interim guidance for special education services to incarcerated youth, effective October 20, 2025.",
+     "citation": null,
+     "url": "https://www.dpi.nc.gov/districts-schools/classroom-resources/exceptional-children/policies-procedures",
+     "effective_or_updated": "2025-10-20",
+     "year": 2025
+    }
+   ],
+   "gaps": [
+    "The Parent Rights and Responsibilities document itself was not opened; the families page says it links to the NC Notice of Procedural Safeguards.",
+    "The DPI page noted some resources were temporarily removed for accessibility reasons.",
+    "Transition services starting age not confirmed (text cut off).",
+    "No state-specific notable laws or programs were confirmed on official sites."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "ND",
+   "name": "North Dakota",
+   "agency": {
+    "name": "North Dakota Department of Public Instruction",
+    "url": "https://www.nd.gov/dpi/"
+   },
+   "special_ed_page": "https://www.nd.gov/dpi/education-programs/special-education",
+   "parent_rights_page": "https://www.nd.gov/dpi/sites/default/files/documents/SpeEd/Guidelines/Parental%20Right2023.pdf",
+   "regulations": {
+    "citation": "N.D. Admin. Code Article 67-23 (Special Education), including chapter 67-23-01 and chapter 67-23-05 (dispute resolution)",
+    "url": "https://ndlegis.gov/prod/acdata/pdf/67-23-01.pdf"
+   },
+   "statute": {
+    "citation": "N.D. Cent. Code Chapter 15.1-32 (Special Education)",
+    "url": "https://ndlegis.gov/cencode/t15-1c32.pdf"
+   },
+   "dispute_resolution": {
+    "page": null,
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Students at least 3 years old who have not reached age 21 before August 1 of the year they would turn 21. Noncategorical delay can be used for ages 3 up to (not including) 10.",
+   "program_name_notes": "Uses \"IEP\" and \"multidisciplinary team.\" One state disability category is \"noncategorical delay\" for young children. North Dakota's parent rights document is titled \"Parental Rights: Notice of Procedural Safeguards.\"",
+   "notable": [
+    {
+     "topic": "Dyslexia screening",
+     "summary": "State law provides for dyslexia screening of enrolled children age 7 and younger.",
+     "citation": "N.D.C.C. 15.1-32-26",
+     "url": "https://ndlegis.gov/cencode/t15-1c32.pdf",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Postsecondary transitional grants",
+     "summary": "State law provides grants for postsecondary transition programs for students ages 18 up to 22 with a documented intellectual or developmental disability.",
+     "citation": "N.D.C.C. 15.1-32-21.1; N.D. Admin. Code ch. 67-23-07",
+     "url": "https://ndlegis.gov/cencode/t15-1c32.pdf",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Special education rule amendments",
+     "summary": "Sections 67-23-01-01 and 67-23-01-02 of the special education rules show amendments effective April 1, 2026.",
+     "citation": "N.D. Admin. Code 67-23-01-01 and 67-23-01-02",
+     "url": "https://ndlegis.gov/prod/acdata/pdf/67-23-01.pdf",
+     "effective_or_updated": "2026-04-01",
+     "year": 2026
+    }
+   ],
+   "gaps": [
+    "dispute_resolution.page: no North Dakota DPI page dedicated to state complaints, mediation and due process was found; the rules in chapter 67-23-05 name all three, but the rule only details due process hearings and defers mediation and state complaints to federal law.",
+    "The 2023 parental rights PDF is the one linked from the DPI page; the date inside the PDF was not read, and a separate PWN guidance document is dated 2018.",
+    "Dyslexia and transition grant items are described from the Century Code chapter text; effective dates not confirmed."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "OH",
+   "name": "Ohio",
+   "agency": {
+    "name": "Ohio Department of Education and Workforce",
+    "url": "https://education.ohio.gov/"
+   },
+   "special_ed_page": "https://education.ohio.gov/Topics/Special-Education",
+   "parent_rights_page": "https://education.ohio.gov/Topics/Special-Education/A-Guide-to-Parent-Rights-in-Special-Education",
+   "regulations": {
+    "citation": "Ohio Administrative Code Chapter 3301-51 (Operating Standards for the Education of Students with Special Needs)",
+    "url": "https://codes.ohio.gov/ohio-administrative-code/chapter-3301-51"
+   },
+   "statute": {
+    "citation": "Ohio Revised Code Chapter 3323 (Education of Children with Disabilities)",
+    "url": "https://codes.ohio.gov/ohio-revised-code/chapter-3323"
+   },
+   "dispute_resolution": {
+    "page": "https://education.ohio.gov/Topics/Special-Education/Mediation-Complaints-and-Due-Process",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21 inclusive under the state rule (the statute defines it as at least 3 and less than 22). Children 3 to under 10 with developmental delays may also be included.",
+   "program_name_notes": "Ohio calls its rules the \"Operating Standards.\" Uses \"IEP\" and \"IEP team.\" The parent guide is titled \"A Guide to Parent Rights in Special Education\"; a separate booklet, \"Whose IDEA Is This?\", is a parent's guide to the IEP.",
+   "notable": [
+    {
+     "topic": "Autism Scholarship Program",
+     "summary": "Lets parents of eligible children with autism choose a special education program other than the one run by their resident district, while still receiving the services in the child's IEP or autism education plan.",
+     "citation": "Ohio Revised Code, including 3310.41 (as cited on the page)",
+     "url": "https://education.ohio.gov/Topics/Other-Resources/Scholarships/Autism-Scholarship-Program",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "New procedural safeguards notice",
+     "summary": "The Department published an updated parent rights (procedural safeguards) notice and said districts stopped using the earlier version on July 1, 2025.",
+     "citation": null,
+     "url": "https://education.ohio.gov/Topics/Special-Education/A-Guide-to-Parent-Rights-in-Special-Education",
+     "effective_or_updated": "2025-07-01",
+     "year": 2025
+    }
+   ],
+   "gaps": [
+    "Jon Peterson Special Needs Scholarship page returned a 404 at the URL tried, so it is not listed.",
+    "Autism Scholarship page did not name a single authorizing statute; only ORC 3310.41 was cited for a definition.",
+    "Operating Standards effective date not stated on the Department page (booklet is labeled June 2025).",
+    "The Parent Rights PDF itself was not opened; the guide page was confirmed to load and to describe the July 1, 2025 replacement."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "OK",
+   "name": "Oklahoma",
+   "agency": {
+    "name": "Oklahoma State Department of Education (OSDE)",
+    "url": "https://oklahoma.gov/education.html"
+   },
+   "special_ed_page": "https://oklahoma.gov/education/services/special-education.html",
+   "parent_rights_page": "https://oklahoma.gov/education/services/special-education/parents-rights0.html",
+   "regulations": {
+    "citation": "Okla. Admin. Code tit. 210, ch. 15, subch. 13 (Special Education); OSDE Special Education Policies and Procedures (2026)",
+    "url": "https://oklahoma.gov/education/about/administration/office-of-legal-services/administrative-rules.html"
+   },
+   "statute": null,
+   "dispute_resolution": {
+    "page": "https://oklahoma.gov/education/services/special-education/dispute-resolution/mediation.html",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Includes preschool children ages 3 to 5 who are not yet kindergarten-eligible (per OSDE 2026 policy updates). School-age upper limit not confirmed on an official page.",
+   "program_name_notes": "Plans are called IEPs. Oklahoma uses the EDPlan Connect online system for IEPs, and the state alternate test is the OAAP (Oklahoma Alternate Assessment Program). Children under 3 are served by SoonerStart.",
+   "notable": [
+    {
+     "topic": "Lindsey Nicole Henry (LNH) Scholarship",
+     "summary": "Helps eligible students with disabilities in PK3 to 12th grade pay for tuition and approved costs at a participating private school. Students can qualify with an IEP or ISP from a public school and other listed pathways.",
+     "citation": "Lindsey Nicole Henry Scholarships for Students with Disabilities Program Act",
+     "url": "https://oklahoma.gov/education/services/school-choice/lnh-scholarship.html",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Alternate assessment consent",
+     "summary": "Parents must give separate written consent before a child takes the Oklahoma Alternate Assessment Program. If a parent refuses, the child takes the regular tests and is taught to general education standards.",
+     "citation": "70 O.S. 13-114.6 (HB 1393)",
+     "url": "https://oklahoma.gov/content/dam/ok/en/osde/documents/services/special-education/Oklahoma%20Special%20Ed%20Policies%20and%20Procedure%20Updates.pdf",
+     "effective_or_updated": "2025"
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "2026 Special Education Policies and Procedures update",
+     "summary": "Parents may review records at least 5 business days before IEP or 504 meetings and may bring a person of their choice. Districts must hold a data-review meeting within 15 school days of a written evaluation request.",
+     "citation": "70 O.S. 13-101 (SB 1489); HB 3718",
+     "url": "https://oklahoma.gov/content/dam/ok/en/osde/documents/services/special-education/Oklahoma%20Special%20Ed%20Policies%20and%20Procedure%20Updates.pdf",
+     "effective_or_updated": "2026-08-01",
+     "year": 2026
+    }
+   ],
+   "gaps": [
+    "Main state special education statute (70 O.S. 13-101 et seq.) cited by OSDE but no official statute URL confirmed; statute set to null.",
+    "Regulations url points to OSDE administrative rules page, which only lists 2026 proposed changes to subchapter 13; codified OAC text (rules.ok.gov) not opened.",
+    "Upper age limit of eligibility not confirmed on an official Oklahoma page."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "OR",
+   "name": "Oregon",
+   "agency": {
+    "name": "Oregon Department of Education (ODE)",
+    "url": "https://www.oregon.gov/ode/"
+   },
+   "special_ed_page": "https://www.oregon.gov/ode/students-and-family/specialeducation/Pages/default.aspx",
+   "parent_rights_page": "https://www.oregon.gov/ode/rules-and-policies/Pages/Procedural-Safeguards.aspx",
+   "regulations": {
+    "citation": "OAR chapter 581, division 15 (Special Education)",
+    "url": "https://www.oregon.gov/ode/rules-and-policies/StateRules/Pages/ODERulesDivision.aspx"
+   },
+   "statute": {
+    "citation": "ORS chapter 343 (Special Education and Other Specialized Education Services)",
+    "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors343.html"
+   },
+   "dispute_resolution": {
+    "page": "https://www.oregon.gov/ode/rules-and-policies/Pages/Dispute-Resolution.aspx",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Early intervention from birth to 3; early childhood special education from age 3 until kindergarten eligibility. School-age upper limit not confirmed.",
+   "program_name_notes": "Early services are called EI/ECSE (Early Intervention / Early Childhood Special Education). Plans are IEPs; for infants and toddlers, IFSPs.",
+   "notable": [
+    {
+     "topic": "Abbreviated school day limits",
+     "summary": "Oregon law defines a shortened school day for a student with a disability and sets rules when a district limits a student's access for more than 10 school days in a year. It covers students with IEPs, 504 plans, or a pending evaluation request.",
+     "citation": "ORS 343.321, 343.331",
+     "url": "https://www.oregon.gov/ode/students-and-family/specialeducation/Pages/abbreviatedschoolday.aspx",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Dyslexia screening and teacher training",
+     "summary": "Oregon defines dyslexia in rule and requires universal screening for risk factors and dyslexia-related teacher training, with ODE keeping lists of approved screeners and trainings.",
+     "citation": "ORS 326.726; OAR 581-002-1800 to 581-002-1825; OAR 581-022-2440, 2445",
+     "url": "https://www.oregon.gov/ode/students-and-family/SpecialEducation/RegPrograms_BestPractice/Pages/Dyslexia.aspx",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Protection for reporting restraint or seclusion concerns",
+     "summary": "State law protects good-faith reports of inappropriate restraint, seclusion or corporal punishment, and bars districts from requiring nondisclosure agreements about injuries from them.",
+     "citation": "ORS 343.186",
+     "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors343.html",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [],
+   "gaps": [
+    "Official Oregon Secretary of State rule text (secure.sos.state.or.us, division 2556) could not be loaded because of robots.txt; regulations url points to the ODE rules-by-division index page that links to it.",
+    "ORS 343 page says some sections were amended or repealed in the 2026 session; specific changes not reviewed.",
+    "School-age upper eligibility age not confirmed.",
+    "No 2024-2026 rule change or guidance confirmed; recent_changes left empty.",
+    "Effective dates for notable items not confirmed."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "PA",
+   "name": "Pennsylvania",
+   "agency": {
+    "name": "Pennsylvania Department of Education",
+    "url": "https://www.pa.gov/agencies/education"
+   },
+   "special_ed_page": "https://www.pa.gov/agencies/education/programs-and-services/instruction/elementary-and-secondary-education/special-education",
+   "parent_rights_page": "https://www.pattan.net/assets/PaTTAN/42/42c19055-0511-4d4a-a4f7-3740c388ebb0.pdf",
+   "regulations": {
+    "citation": "22 Pa. Code Chapter 14 (school districts) and Chapter 711 (charter schools)",
+    "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/education/documents/instruction/special-education/ideia-idea/idea-state-regulations-that-exceed-federal-requirements-pl.pdf"
+   },
+   "statute": null,
+   "dispute_resolution": {
+    "page": "https://www.pa.gov/agencies/education/programs-and-services/instruction/elementary-and-secondary-education/special-education/state-complaints-and-dispute-resolution",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Free appropriate public education until the student's 22nd birthday or earlier graduation with a regular diploma. Early intervention covers birth to age 5.",
+   "program_name_notes": "Plans are IEPs. The Office for Dispute Resolution (ODR) runs mediation and hearings. PaTTAN is the state training and technical assistance network that hosts forms and the safeguards notice.",
+   "notable": [
+    {
+     "topic": "ConsultLine parent helpline",
+     "summary": "A state helpline (1-800-879-2301) where parents can ask questions about special education and dispute options.",
+     "citation": null,
+     "url": "https://www.pa.gov/agencies/education/programs-and-services/instruction/elementary-and-secondary-education/special-education/state-complaints-and-dispute-resolution",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Family Ambassador Pilot Program",
+     "summary": "Ambassadors with lived experience help families and schools with the move from preschool early intervention to kindergarten. Funded by a federal grant.",
+     "citation": "Success for PA Early Learners grant",
+     "url": "https://www.pa.gov/agencies/education/programs-and-services/instruction/elementary-and-secondary-education/special-education/family-ambassador-pilot-program",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "State rules that go beyond federal law",
+     "summary": "PDE publishes a list of Chapter 14 and Chapter 711 sections that exceed IDEA, including topics such as extended school year, positive behavior support and disciplinary placements.",
+     "citation": "22 Pa. Code Ch. 14, Ch. 711",
+     "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/education/documents/instruction/special-education/ideia-idea/idea-state-regulations-that-exceed-federal-requirements-pl.pdf",
+     "effective_or_updated": "2024-02-26"
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Updated Procedural Safeguards Notice",
+     "summary": "The current Pennsylvania Procedural Safeguards Notice is dated September 2025.",
+     "citation": null,
+     "url": "https://www.pattan.net/assets/PaTTAN/42/42c19055-0511-4d4a-a4f7-3740c388ebb0.pdf",
+     "effective_or_updated": "2025-09",
+     "year": 2025
+    },
+    {
+     "topic": "IDEA-B State Policies and Procedures revised",
+     "summary": "PDE lists a revised IDEA-B State Policies and Procedures document dated May 2025 on its regulations and policies page.",
+     "citation": null,
+     "url": "https://www.pa.gov/agencies/education/programs-and-services/instruction/elementary-and-secondary-education/special-education/regulations-and-policies",
+     "effective_or_updated": "2025-05",
+     "year": 2025
+    }
+   ],
+   "gaps": [
+    "Official 22 Pa. Code Chapter 14 text (pacodeandbulletin.gov) blocked by robots.txt; regulations url is a PDE document that lists the Chapter 14 and 711 sections.",
+    "Main statute (Public School Code Article XIII) not confirmed on an official site; set to null.",
+    "Procedural safeguards notice is hosted on pattan.net (PDE-linked network), not a pa.gov domain.",
+    "Early intervention age range taken from PDE page summary, not a regulation."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "RI",
+   "name": "Rhode Island",
+   "agency": {
+    "name": "Rhode Island Department of Education (RIDE)",
+    "url": "https://ride.ri.gov"
+   },
+   "special_ed_page": "https://ride.ri.gov/students-families/special-education",
+   "parent_rights_page": "https://ride.ri.gov/sites/g/files/xkgbur806/files/2024-10/ProceduralSafeguardsNotice%2010.1.24.pdf",
+   "regulations": {
+    "citation": "200-RICR-20-30-6 (Regulations Governing the Education of Children with Disabilities)",
+    "url": "https://rules.sos.ri.gov/regulations/part/200-20-30-6"
+   },
+   "statute": {
+    "citation": "R.I. Gen. Laws chapter 16-24 (Children with Disabilities)",
+    "url": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-24/INDEX.htm"
+   },
+   "dispute_resolution": {
+    "page": "https://ride.ri.gov/students-families/special-education/when-schools-and-families-do-not-agree",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21. A developmental delay can qualify children ages 3 through 8. Services continue until the 21st birthday or a regular diploma, whichever comes first. Birth to 3 is handled separately under Part C.",
+   "program_name_notes": "Plans are IEPs. Disputes can go through RIDE mediation, state complaint or an impartial due process hearing, plus facilitated IEP/504 meetings.",
+   "notable": [
+    {
+     "topic": "Facilitated IEP/504 meetings",
+     "summary": "A free, voluntary option where a trained neutral facilitator helps the team stay focused on the student. It is an alternative to formal dispute resolution.",
+     "citation": null,
+     "url": "https://ride.ri.gov/students-families/facilitated-iep504-meetings",
+     "effective_or_updated": "2024"
+    },
+    {
+     "topic": "Employment First policy for transition",
+     "summary": "RIDE's Employment First policy supports students with intellectual or developmental disabilities moving into college, training or integrated work. Regional transition centers and advisory committees support districts.",
+     "citation": "RIDE Employment First Policy",
+     "url": "https://ride.ri.gov/students-families/special-education/secondary-transition",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Facilitated IEP/504 meeting program",
+     "summary": "From March 2024 to June 2025 RIDE received 129 facilitation requests that led to 57 facilitated meetings; the first annual report came out in September 2025.",
+     "citation": null,
+     "url": "https://ride.ri.gov/students-families/facilitated-iep504-meetings",
+     "effective_or_updated": "2025-09",
+     "year": 2025
+    },
+    {
+     "topic": "Procedural Safeguards Notice revised",
+     "summary": "RIDE's model Procedural Safeguards Notice was revised on October 1, 2024.",
+     "citation": null,
+     "url": "https://ride.ri.gov/sites/g/files/xkgbur806/files/2024-10/ProceduralSafeguardsNotice%2010.1.24.pdf",
+     "effective_or_updated": "2024-10-01",
+     "year": 2024
+    }
+   ],
+   "gaps": [
+    "Effective date of the current regulations was cut off on the rules page; RIDE page says effective 1/9/2019 to current, and the rules page notes proposed changes exist.",
+    "RI dyslexia page cites no screening requirement or state law, so no dyslexia item included."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "SC",
+   "name": "South Carolina",
+   "agency": {
+    "name": "South Carolina Department of Education (SCDE)",
+    "url": "https://ed.sc.gov"
+   },
+   "special_ed_page": "https://oses.ed.sc.gov",
+   "parent_rights_page": "https://ed.sc.gov/districts-schools/special-education-services/parent-resources/dispute-resolution-information/procedural-safeguards-notice/",
+   "regulations": {
+    "citation": "S.C. State Board of Education Regulation 43-243 (Special Education, Education of Students with Disabilities)",
+    "url": "https://ed.sc.gov/index.cfm?LinkServID=60EE61CE-C608-D0B3-EC68A0BC6CE5B8AF"
+   },
+   "statute": {
+    "citation": "S.C. Code Ann. Title 59, Chapter 33 (Special Education for Handicapped Children)",
+    "url": "https://www.scstatehouse.gov/code/t59c033.php"
+   },
+   "dispute_resolution": {
+    "page": "https://oses.ed.sc.gov/family-community/dispute-resolution-information/",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21. A student who turns 21 after September 1 may finish that school year.",
+   "program_name_notes": "Plans are IEPs. SC uses a two-tier due process system: a first hearing locally, then an impartial review at SCDE. SCDE also lists an ombudsman and facilitated IEP meetings.",
+   "notable": [
+    {
+     "topic": "Dyslexia screening",
+     "summary": "Districts must screen young students (kindergarten and first grade, with second grade as needed) for reading difficulties including dyslexia, using approved screening tools. The article took effect in 2018 with screening starting in 2019-2020 depending on funding or free tools.",
+     "citation": "S.C. Code 59-33-510 et seq. (Act 213 of 2018)",
+     "url": "https://www.scstatehouse.gov/code/t59c033.php",
+     "effective_or_updated": "2018-05-18"
+    },
+    {
+     "topic": "Earlier transition planning",
+     "summary": "State regulation requires transition planning to begin no later than the first IEP in effect when the child turns 13, earlier than the federal minimum.",
+     "citation": "Regulation 43-243",
+     "url": "https://ed.sc.gov/index.cfm?LinkServID=60EE61CE-C608-D0B3-EC68A0BC6CE5B8AF",
+     "effective_or_updated": "2016-05-27"
+    },
+    {
+     "topic": "Transfer of rights at age 18",
+     "summary": "SC's age of majority is 18. Starting one year before that, the IEP must say the student has been told which rights will transfer.",
+     "citation": "Regulation 43-243; Code Title 59 ch. 33 art. 3",
+     "url": "https://ed.sc.gov/index.cfm?LinkServID=60EE61CE-C608-D0B3-EC68A0BC6CE5B8AF",
+     "effective_or_updated": "2016-05-27"
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "SEED 2024 and updated SLD guidance",
+     "summary": "OSES lists Standards for Evaluation and Eligibility Determination (SEED 2024), a Specific Learning Disability guide dated June 2025, and 2024 hearing and vision screening guidance.",
+     "citation": "Regulation 43-243.1",
+     "url": "https://oses.ed.sc.gov/regulations-policy-guidance/",
+     "effective_or_updated": "2025",
+     "year": 2025
+    }
+   ],
+   "gaps": [
+    "Procedural safeguards notice revision date not shown on the page.",
+    "Regulation 43-243.1 link points to the whole Chapter 43 PDF; not opened or cited as a record URL.",
+    "Exceptional SC / school choice program for students with disabilities not confirmed."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "SD",
+   "name": "South Dakota",
+   "agency": {
+    "name": "South Dakota Department of Education",
+    "url": "https://doe.sd.gov"
+   },
+   "special_ed_page": "https://doe.sd.gov/sped/",
+   "parent_rights_page": "https://doe.sd.gov/sped/documents/25-SDparentalrights.pdf",
+   "regulations": {
+    "citation": "Administrative Rules of South Dakota (ARSD) Article 24:05 (Special Education)",
+    "url": null
+   },
+   "statute": {
+    "citation": "SDCL chapter 13-37 (Special Assistance and Related Services)",
+    "url": "https://sdlegislature.gov/api/Statutes/13-37.html"
+   },
+   "dispute_resolution": {
+    "page": "https://doe.sd.gov/sped/complaints.aspx",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 to 21 (per the state parental rights handbook).",
+   "program_name_notes": "The state's parental rights handbook doubles as the procedural safeguards notice. Plans are IEPs. IEP facilitation is also offered.",
+   "notable": [
+    {
+     "topic": "Navigator Program",
+     "summary": "A free, impartial help service run by the state special education office and South Dakota Parent Connection. Navigators help families and school staff communicate and work toward agreement before formal disputes.",
+     "citation": null,
+     "url": "https://doe.sd.gov/sped/documents/NavigatorProgram.pdf",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Dyslexia and braille in state law",
+     "summary": "The state special education chapter includes a definition of dyslexia and sections on braille literacy assessment and instruction for blind students.",
+     "citation": "SDCL 13-37-28.1, 13-37-30, 13-37-31",
+     "url": "https://sdlegislature.gov/api/Statutes/13-37.html",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [],
+   "gaps": [
+    "ARSD 24:05 official text on sdlegislature.gov requires JavaScript and could not be opened; regulations url set to null (citation confirmed from DOE parental rights handbook).",
+    "SDCL 13-37 page is a table of contents only; text of dyslexia and braille sections not read.",
+    "No 2024-2026 change confirmed; recent_changes left empty."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "TN",
+   "name": "Tennessee",
+   "agency": {
+    "name": "Tennessee Department of Education",
+    "url": "https://www.tn.gov/education.html"
+   },
+   "special_ed_page": "https://www.tn.gov/education/student-support/special-education.html",
+   "parent_rights_page": "https://www.tn.gov/content/dam/tn/education/special-education/idea/Procedural_Safeguards_english.pdf",
+   "regulations": {
+    "citation": "State Board of Education Rule Chapter 0520-01-09 (Special Education Programs and Services)",
+    "url": "https://www.tn.gov/sbe/rules--policies-and-guidance/rules.html"
+   },
+   "statute": null,
+   "dispute_resolution": {
+    "page": "https://www.tn.gov/education/legal-services/special-education-legal-services/legal-dispute-resolution-processes.html",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 to 21 under IDEA Part B, as described by the Tennessee Department of Education. Infants and toddlers (birth to 3) are served under Part C.",
+   "program_name_notes": "The state complaint is called an Administrative Complaint. Plans are IEPs. Due process cases are heard by an administrative law judge.",
+   "notable": [
+    {
+     "topic": "Individualized Education Account (IEA) Program",
+     "summary": "A school choice program for K-12 students with qualifying disabilities and an active Tennessee IEP. Funds can go to approved costs such as private school, umbrella homeschool programs or independent homeschooling.",
+     "citation": "Tenn. Code Ann. 49-10-14; State Board Rule 0520-01-11",
+     "url": "https://www.tn.gov/education/iea.html",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Draft IEP 48 hours before meeting",
+     "summary": "If the school prepares a draft IEP, parents must get a copy at least 48 hours before the meeting. Parents may decline the copy.",
+     "citation": "Rule 0520-01-09-.15",
+     "url": "https://www.tn.gov/education/student-support/special-education.html",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [],
+   "gaps": [
+    "Official compiled rule text (publications.tnsosfiles.com) returned 403; regulations url points to the State Board rules page that references the rule.",
+    "Main state special education statute (Tenn. Code Ann. title 49 ch. 10) not confirmed on an official site; statute set to null.",
+    "IEA application dates are given on the TDOE page (2027-28 window projected February 16, 2027) but not included as a law change.",
+    "No 2024-2026 rule change confirmed; recent_changes left empty.",
+    "Dyslexia and restraint/seclusion laws not researched."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "TX",
+   "name": "Texas",
+   "agency": {
+    "name": "Texas Education Agency (TEA)",
+    "url": "https://tea.texas.gov"
+   },
+   "special_ed_page": "https://tea.texas.gov/special-populations-and-support/special-education",
+   "parent_rights_page": "https://tea.texas.gov/special-populations-and-support/special-education/sped-family-resources",
+   "regulations": {
+    "citation": "19 Texas Administrative Code Chapter 89, Subchapter AA (Commissioner's Rules Concerning Special Education Services)",
+    "url": "https://tea.texas.gov/laws-and-rules/commissioner-rules-tac/coe-tac-currently-effect/ch089aa.pdf"
+   },
+   "statute": null,
+   "dispute_resolution": {
+    "page": "https://tea.texas.gov/special-populations-and-support/special-education/special-education-dispute-resolution-processes",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21, starting on the third birthday. A student who turns 21 by September 1 may continue through that school year. Services are available from birth for students with visual impairments or who are deaf or hard of hearing.",
+   "program_name_notes": "The IEP team is called the ARD committee (admission, review, and dismissal). SPEDTex is the state information line for IEP questions (1-855-773-3839). TEA also offers IEP facilitation and a new voluntary early resolution option.",
+   "notable": [
+    {
+     "topic": "Texas Education Freedom Accounts (TEFA)",
+     "summary": "A state education savings account program started by the 2025 Legislature. Students with disabilities who have an IEP may receive up to $30,000 per year, starting in 2026-27. Districts still evaluate children and an ARD committee writes an IEP for funding.",
+     "citation": "SB 2 (2025)",
+     "url": "https://comptroller.texas.gov/programs/education/esa",
+     "effective_or_updated": "2026"
+    },
+    {
+     "topic": "Parent-Directed Special Education Services (PDSES)",
+     "summary": "A one-time $1,500 online grant for eligible parents of students served by special education in a Texas public school.",
+     "citation": null,
+     "url": "https://tea.texas.gov/special-populations-and-support/special-education/sped-family-resources",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "ESAs and children with disabilities (SB 2 guidance)",
+     "summary": "TEA told districts they must still evaluate children suspected of having disabilities, including private school and homeschooled students, and that IDEA evaluation and IEP rules stay the same under the new accounts.",
+     "citation": "SB 2 (2025)",
+     "url": "https://tea.texas.gov/about-tea/news-and-multimedia/correspondence/taa-letters/senate-bill-2-education-savings-accounts-and-children-with-disabilities",
+     "effective_or_updated": "2025-11-20",
+     "year": 2025
+    },
+    {
+     "topic": "New intensity-of-services funding model",
+     "summary": "TEA's special education page describes a new funding model based on service intensity, with agency letters in April and May 2026 and proposed commissioner rules that are not yet final.",
+     "citation": null,
+     "url": "https://tea.texas.gov/special-populations-and-support/special-education",
+     "effective_or_updated": "2026",
+     "year": 2026
+    }
+   ],
+   "gaps": [
+    "Texas Education Code chapter 29 official text could not be loaded (site returned only the homepage); statute set to null.",
+    "TEA family page links the Notice of Procedural Safeguards on spedtex.org; that notice itself was not opened.",
+    "The rule PDF does not use the words '19 TAC'; citation inferred from the Texas Administrative Code structure and TEA file naming."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "UT",
+   "name": "Utah",
+   "agency": {
+    "name": "Utah State Board of Education (USBE)",
+    "url": "https://schools.utah.gov"
+   },
+   "special_ed_page": "https://schools.utah.gov/specialeducation",
+   "parent_rights_page": "https://schools.utah.gov/specialeducation/programs/rulespolicies.php",
+   "regulations": {
+    "citation": "USBE Special Education Rules (June 2023), incorporated through Board Rule R277-750",
+    "url": "https://schools.utah.gov/specialeducation/_specialeducation/_rulesandpolicies/_specialeducationrules/RulesSpecialEducationReport.pdf"
+   },
+   "statute": null,
+   "dispute_resolution": {
+    "page": "https://schools.utah.gov/specialeducation/programs/studentfamilyrights.php",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21. Children ages 3 to 8 with developmental delays may qualify until their ninth birthday. Birth to 3 is served under IDEA Part C.",
+   "program_name_notes": "Plans are IEPs developed by an IEP Team. USBE also offers facilitated IEP meetings. The Utah Parent Center offers IEP coaches and parent consultants.",
+   "notable": [
+    {
+     "topic": "Special needs scholarships",
+     "summary": "USBE runs the Carson Smith Scholarship and a Scholarship Granting Organization runs the Special Needs Opportunity Scholarship. Both help eligible students attend private schools. A student cannot combine them with Utah Fits All.",
+     "citation": null,
+     "url": "https://schools.utah.gov/specialeducation/programs/specialneedsscholarshipgrants.php",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Faster evaluations for children referred by child welfare",
+     "summary": "Evaluations referred by DCFS have a 30-day timeline under Utah law, as noted in the state special education rules.",
+     "citation": "Utah Code 53E-7-207",
+     "url": "https://schools.utah.gov/specialeducation/_specialeducation/_rulesandpolicies/_specialeducationrules/RulesSpecialEducationReport.pdf",
+     "effective_or_updated": "2023"
+    }
+   ],
+   "recent_changes": [],
+   "gaps": [
+    "Utah Code Title 53E chapter 7 on le.utah.gov blocked by robots.txt; statute set to null.",
+    "R277-750 incorporation is from the rules document; R277-750 text not opened.",
+    "Procedural safeguards notice PDF (2023, English) listed on USBE rules page but not opened; parent_rights_page points to the rules and policies page that links it.",
+    "No 2024-2026 change to the special education rules confirmed; recent_changes left empty.",
+    "Restraint/seclusion provisions not confirmed."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "VT",
+   "name": "Vermont",
+   "agency": {
+    "name": "Vermont Agency of Education",
+    "url": "https://education.vermont.gov/"
+   },
+   "special_ed_page": "https://education.vermont.gov/student-support/vermont-special-education",
+   "parent_rights_page": "https://education.vermont.gov/node/6029",
+   "regulations": {
+    "citation": "State Board of Education Rule Series 2360 (Special Education Rules)",
+    "url": "https://education.vermont.gov/documents/VT-State-Board-of-Education-Rule-Series-2360"
+   },
+   "statute": {
+    "citation": "16 V.S.A. chapter 101 (Special Education)",
+    "url": "https://legislature.vermont.gov/statutes/chapter/16/101"
+   },
+   "dispute_resolution": {
+    "page": "https://education.vermont.gov/special-education/dispute-resolution",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21. A student who earns a regular high school diploma is no longer entitled to special education services, so eligibility can end earlier.",
+   "program_name_notes": "Vermont rules call the school team that handles evaluations and eligibility the Evaluation and Planning Team (EPT). The written plan is the IEP. State-level state complaints are called administrative complaints.",
+   "notable": [
+    {
+     "topic": "Educational surrogate parent program",
+     "summary": "Trained volunteers act as the parent in special education decisions for students in state custody, students whose parents cannot be found, and unaccompanied homeless youth.",
+     "citation": null,
+     "url": "https://education.vermont.gov/special-education/surrogate-parent",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "IEP facilitation pilot",
+     "summary": "The dispute resolution page describes a 2025-26 pilot of IEP facilitation, a voluntary service separate from mediation, due process, and complaints.",
+     "citation": null,
+     "url": "https://education.vermont.gov/special-education/dispute-resolution",
+     "effective_or_updated": "2025",
+     "year": 2025
+    }
+   ],
+   "gaps": [
+    "Rule 2360 effective date of July 1, 2022 is from the rule text, not a page-level date; eligibility ages taken from the rule text (Rule 2360.2).",
+    "Procedural safeguards notice page lists a 2022 posting date; could not confirm whether a newer notice exists.",
+    "Did not find or confirm a dyslexia screening, restraint/seclusion, or autism insurance item on an official page."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "VA",
+   "name": "Virginia",
+   "agency": {
+    "name": "Virginia Department of Education",
+    "url": "https://www.doe.virginia.gov/"
+   },
+   "special_ed_page": null,
+   "parent_rights_page": "https://www.doe.virginia.gov/programs-services/special-education/information-for-families",
+   "regulations": {
+    "citation": "8VAC20-81 (Regulations Governing Special Education Programs for Children with Disabilities in Virginia)",
+    "url": "https://law.lis.virginia.gov/admincode/title8/agency20/chapter81/"
+   },
+   "statute": {
+    "citation": "Va. Code Title 22.1, Chapter 13, Article 2 (Special Education), starting at 22.1-213",
+    "url": "https://law.lis.virginia.gov/vacode/title22.1/chapter13/section22.1-213/"
+   },
+   "dispute_resolution": {
+    "page": "https://www.doe.virginia.gov/programs-services/special-education/resolving-disputes/resolving-disputes",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 2 through 21 for children with a qualifying disability who need special education, per the state definition in Va. Code 22.1-213.",
+   "program_name_notes": "Virginia calls its procedural safeguards notice 'Your Family's Special Education Rights.' The state also has a Parent Ombudsman for Special Education.",
+   "notable": [
+    {
+     "topic": "Parent Ombudsman for Special Education",
+     "summary": "A neutral, confidential office that gives parents and others informal guidance and referrals. It is separate from mediation, state complaints, and due process.",
+     "citation": null,
+     "url": "https://www.doe.virginia.gov/programs-services/special-education/resolving-disputes/parent-ombudsman-for-special-education",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Virginia Family's Guide to Special Education",
+     "summary": "A state guide that explains rights and each step of the special education process; it replaced the older Parent's Guide first published in 2010.",
+     "citation": null,
+     "url": "https://www.doe.virginia.gov/programs-services/special-education/information-for-families/virginia-family-s-guide-to-special-education",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Procedural safeguards notice updated",
+     "summary": "The Virginia procedural safeguards notice, 'Your Family's Special Education Rights,' is listed as updated in September 2024, with translations.",
+     "citation": null,
+     "url": "https://www.doe.virginia.gov/programs-services/special-education/information-for-families",
+     "effective_or_updated": "2024-09",
+     "year": 2024
+    }
+   ],
+   "gaps": [
+    "VDOE special education landing page, Resolving Disputes parent page, and mediation page returned 403 to our fetch tool, so special_ed_page is null and the dispute page is the State Complaints subpage; mediation and due process flags rest on regulation text and search listings.",
+    "Could not open the procedural safeguards notice PDF (binary) to confirm its title and date; the date comes from the families page.",
+    "The Virginia Code page for 22.1-213 is the definitions section; the full article range was not separately confirmed.",
+    "Did not find or confirm dyslexia, restraint/seclusion, or other state-specific items on official pages."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "WA",
+   "name": "Washington",
+   "agency": {
+    "name": "Office of Superintendent of Public Instruction (OSPI)",
+    "url": "https://ospi.k12.wa.us/"
+   },
+   "special_ed_page": "https://ospi.k12.wa.us/student-success/special-education",
+   "parent_rights_page": "https://ospi.k12.wa.us/student-success/special-education/family-engagement-and-guidance/parent-and-student-rights-procedural-safeguards",
+   "regulations": {
+    "citation": "Chapter 392-172A WAC (Provision of Special Education Services)",
+    "url": "https://app.leg.wa.gov/wac/default.aspx?cite=392-172A&full=true"
+   },
+   "statute": {
+    "citation": "Chapter 28A.155 RCW (Special Education)",
+    "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=28A.155"
+   },
+   "dispute_resolution": {
+    "page": "https://ospi.k12.wa.us/student-success/special-education/dispute-resolution",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through 21 under WAC 392-172A-02000. Under the N.D. v. Reykdal settlement, OSPI is required to extend eligibility to age 22.",
+   "program_name_notes": "Washington calls a state complaint a 'community complaint.' It also offers facilitation. Developmental delay is a state category for ages 3 through 9. Children under 3 get early intervention under Part C, not this chapter.",
+   "notable": [
+    {
+     "topic": "Restraint and isolation",
+     "summary": "State law requires each student's IEP to include procedures for telling parents when restraint or isolation is used.",
+     "citation": "RCW 28A.155.210",
+     "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=28A.155.210",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Aging-out settlement (N.D. v. Reykdal)",
+     "summary": "Students who were exited from special education because of age before turning 22 since Nov. 11, 2020 may be owed compensatory education; IEP teams decide the amount.",
+     "citation": null,
+     "url": "https://ospi.k12.wa.us/sites/default/files/2025-02/general-notice-class-action-settlement-2-22-cv-01621-lk.pdf",
+     "effective_or_updated": "2025"
+    },
+    {
+     "topic": "Inclusionary Practices Technical Assistance Network",
+     "summary": "OSPI program that gives targeted support and funds to districts working to include students with disabilities in general education.",
+     "citation": null,
+     "url": "https://ospi.k12.wa.us/student-success/support-programs/inclusionary-practices-technical-assistance-network-iptn",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Evaluation and eligibility deadlines (ESHB 2557)",
+     "summary": "Evaluation reports are due within 35 school days of parent consent and the eligibility meeting within 40 school days, with at least 5 school days after the parent gets the report. OSPI is also moving the referral timeline from 25 to 20 days through rulemaking.",
+     "citation": "ESHB 2557",
+     "url": "https://ospi.k12.wa.us/sites/default/files/2026-04/guidance-specialed-hb-2557-faq.pdf",
+     "effective_or_updated": "2026-06-11",
+     "year": 2026
+    },
+    {
+     "topic": "N.D. v. Reykdal settlement approved",
+     "summary": "OSPI's page reports court approval in November 2024 and a final approval order on June 23, 2025.",
+     "citation": null,
+     "url": "https://ospi.k12.wa.us/student-success/special-education",
+     "effective_or_updated": "2025-06-23",
+     "year": 2025
+    }
+   ],
+   "gaps": [
+    "Procedural safeguards notice date (October 2023) is from OSPI page text; the notice file itself was not opened.",
+    "Did not confirm a dyslexia screening law or autism insurance mandate on an official page.",
+    "ESHB 2557 final session-law citation and the OSPI rule change status were not confirmed beyond the OSPI FAQ."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "WV",
+   "name": "West Virginia",
+   "agency": {
+    "name": "West Virginia Department of Education",
+    "url": "https://wvde.us/"
+   },
+   "special_ed_page": "https://wvde.us/academics/special-education",
+   "parent_rights_page": "https://wvde.us/academics/special-education/general-supervision-system/forms-waivers",
+   "regulations": {
+    "citation": "West Virginia Board of Education Policy 2419 (Regulations for the Education of Students with Exceptionalities)",
+    "url": "https://wvde.us/academics/special-education/policies-standards"
+   },
+   "statute": {
+    "citation": "W. Va. Code 18-20 (Education of Exceptional Children)",
+    "url": "https://code.wvlegislature.gov/18-20/"
+   },
+   "dispute_resolution": {
+    "page": "https://wvde.us/academics/special-education/general-supervision-system/idea-dispute-resolution",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": null,
+   "program_name_notes": "West Virginia calls students with disabilities 'students with exceptionalities' and its main rule is Policy 2419. It also offers Facilitated IEP (FIEP) meetings.",
+   "notable": [
+    {
+     "topic": "Cameras in self-contained classrooms",
+     "summary": "Schools must provide a video camera with audio for each self-contained special education classroom, and may not monitor restrooms or changing areas except incidentally.",
+     "citation": "W. Va. Code 18-20-11",
+     "url": "https://code.wvlegislature.gov/18-20-11/",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Dyslexia and dyscalculia",
+     "summary": "State law defines both conditions and directs the state board and schools to provide screening, evaluation, evidence-based help, accommodations, and staff training.",
+     "citation": "W. Va. Code 18-20-10",
+     "url": "https://code.wvlegislature.gov/18-20-10/",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Procedural safeguards notice revised",
+     "summary": "WVDE's Procedural Safeguards brochure for parents and students was revised in August 2024.",
+     "citation": null,
+     "url": "https://wvde.us/media/1863/33078-procedural-safeguards-v1pdf-accpdf",
+     "effective_or_updated": "2024-08",
+     "year": 2024
+    }
+   ],
+   "gaps": [
+    "Policy 2419 text could not be opened (WV board site blocks automated access; Secretary of State PDF had no readable text). Link is WVDE's Policies and Standards page, which lists it with an effective date of March 13, 2023.",
+    "Eligibility ages not confirmed from an official source.",
+    "No dedicated procedural safeguards page; parent_rights_page is the WVDE Forms and Waivers page that links the notice.",
+    "Effective dates for W. Va. Code 18-20-10 and 18-20-11 were not stated on the pages; a 2026 bill (HB4995) appears in the 18-20-11 history but its effect was not confirmed."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "WI",
+   "name": "Wisconsin",
+   "agency": {
+    "name": "Wisconsin Department of Public Instruction",
+    "url": "https://dpi.wi.gov/"
+   },
+   "special_ed_page": "https://dpi.wi.gov/sped",
+   "parent_rights_page": "https://dpi.wi.gov/sped/families/rights",
+   "regulations": {
+    "citation": "Wis. Admin. Code ch. PI 11 (Children with Disabilities)",
+    "url": "https://docs.legis.wisconsin.gov/code/admin_code/pi/11"
+   },
+   "statute": {
+    "citation": "Wis. Stat. chapter 115",
+    "url": "https://docs.legis.wisconsin.gov/statutes/statutes/115"
+   },
+   "dispute_resolution": {
+    "page": "https://dpi.wi.gov/sped/dispute-resolution",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 up to age 21 for students who have not graduated from high school, per DPI's special education policies document.",
+   "program_name_notes": "Wisconsin rules call disability groups 'areas of impairment' and DPI lists 12 disability categories. Its state complaint is called an IDEA State Complaint. IEP facilitation is offered through the mediation system.",
+   "notable": [
+    {
+     "topic": "Transition planning at age 14",
+     "summary": "Wisconsin starts transition requirements in the first IEP that will be in effect when the student turns 14, earlier than the federal age of 16.",
+     "citation": "Wis. Stat. 115.787(2)(g)1 (as cited by DPI)",
+     "url": "https://dpi.wi.gov/sped/topics/transition",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Special Needs Scholarship Program",
+     "summary": "State-funded scholarships help eligible students with disabilities attend participating private schools.",
+     "citation": "Wis. Stat. 115.7915; Wis. Admin. Code ch. PI 49",
+     "url": "https://dpi.wi.gov/parental-education-options/special-needs-scholarship",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Open enrollment for students with disabilities",
+     "summary": "Students cannot be refused open enrollment because of a disability, but a district may deny an application if it lacks space, including space for the services in the IEP.",
+     "citation": null,
+     "url": "https://dpi.wi.gov/open-enrollment/special-education",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Wisconsin Statewide Parent-Educator Initiative (WSPEI)",
+     "summary": "A state program that connects parents and educators with information, referrals, and training to build working relationships.",
+     "citation": null,
+     "url": "https://dpi.wi.gov/sped/families/wspei",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [],
+   "gaps": [
+    "Could not confirm that Wis. Stat. subchapter V (children with disabilities) is within the chapter 115 page; the DPI laws page lists chapter 115 as a whole.",
+    "Could not open the Wisconsin Legislature pages for 115.76 or subchapter V (robots block), so no statute section was cited directly.",
+    "PI 11 last amendment shown is effective 3-1-20; no 2024-2026 changes found.",
+    "No dated 2024-2026 change confirmed; dyslexia, restraint/seclusion, and autism insurance items not checked on official pages."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  },
+  {
+   "code": "WY",
+   "name": "Wyoming",
+   "agency": {
+    "name": "Wyoming Department of Education",
+    "url": "https://edu.wyoming.gov/"
+   },
+   "special_ed_page": "https://edu.wyoming.gov/parents/special-education/",
+   "parent_rights_page": "https://edu.wyoming.gov/wp-content/uploads/2025/09/WDE-Procedural-Safeguards-2025.pdf",
+   "regulations": {
+    "citation": "WDE Rules, Chapter 7: Services for Children with Disabilities",
+    "url": "https://edu.wyoming.gov/wp-content/uploads/2025/02/WY-Chapter-7-Rules-Students-with-Disabilities-Susan-Shipley.pdf"
+   },
+   "statute": {
+    "citation": "W.S. 21-2-501 and 21-2-502 (Education of Children with Disabilities)",
+    "url": "https://wyoleg.gov/statutes/compress/title21.pdf"
+   },
+   "dispute_resolution": {
+    "page": "https://edu.wyoming.gov/parents/special-education/dispute-resolution/",
+    "state_complaint": true,
+    "mediation": true,
+    "due_process": true
+   },
+   "eligibility_ages": "Ages 3 through the end of the school year in which the child turns 21.",
+   "program_name_notes": "Wyoming rules use 'Cognitive Disability' as a category name. Developmental Delay (ages 3 through 9) is available only if the local school board adopts it. The Department of Health's Developmental Disabilities Division is responsible for services to preschool children.",
+   "notable": [
+    {
+     "topic": "Parent Information Center and UPLIFT",
+     "summary": "WDE's parent resources page lists two parent organizations: Parent Information Center/Parent Education Network (PIC/PEN) and UPLIFT.",
+     "citation": null,
+     "url": "https://edu.wyoming.gov/parents/special-education/parent-resources/",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "ASCEND 307",
+     "summary": "A federally funded multi-year WDE project to help students with disabilities build skills for their next stage of life.",
+     "citation": null,
+     "url": "https://edu.wyoming.gov/parents/special-education/ascend-307/",
+     "effective_or_updated": null
+    },
+    {
+     "topic": "Parent guide to special education",
+     "summary": "WDE's 'Partnering for Success' guide walks families through referral, evaluation, the IEP, and progress monitoring.",
+     "citation": null,
+     "url": "https://edu.wyoming.gov/wp-content/uploads/2026/05/WDE-Parents-Guide-to-Special-Education.pdf",
+     "effective_or_updated": null
+    }
+   ],
+   "recent_changes": [
+    {
+     "topic": "Procedural safeguards notice updated",
+     "summary": "WDE posted a Notice of Procedural Safeguards dated May 2025, in English and Spanish.",
+     "citation": null,
+     "url": "https://edu.wyoming.gov/wp-content/uploads/2025/09/WDE-Procedural-Safeguards-2025.pdf",
+     "effective_or_updated": "2025-05",
+     "year": 2025
+    }
+   ],
+   "gaps": [
+    "Chapter 7 rules PDF shows no effective date and was not checked against rules.wyo.gov.",
+    "Statute link is the full Title 21 PDF; only the first 100,000 characters were read, and the age summary for Article 5 is from that read.",
+    "Did not confirm any dyslexia, restraint/seclusion, autism insurance, or school-choice item on an official page.",
+    "Wyoming parent guide page has no publication date."
+   ],
+   "verified_at": "2026-10-08",
+   "status": "agent_researched_needs_human_review"
+  }
+ ]
+}

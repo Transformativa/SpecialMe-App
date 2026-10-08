@@ -1,0 +1,25 @@
+{
+ "schema": 1,
+ "note": "Official sources only. check = how the refresh script watches it.",
+ "federal_register": {
+  "api": "https://www.federalregister.gov/api/v1/documents.json",
+  "queries": [
+   {"id":"idea","term":"Individuals with Disabilities Education Act","agencies":["education-department","health-and-human-services-department"]},
+   {"id":"504","term":"Section 504 Rehabilitation Act disability nondiscrimination"},
+   {"id":"ada","term":"Americans with Disabilities Act","agencies":["justice-department"]},
+   {"id":"ferpa","term":"Family Educational Rights and Privacy Act"},
+   {"id":"able","term":"ABLE accounts 529A"},
+   {"id":"medicaid-hcbs","term":"Medicaid disability home and community-based services","agencies":["centers-for-medicare-medicaid-services"]}
+  ],
+  "lookback_days": 14
+ },
+ "pages": [
+  {"id":"ed-idea","url":"https://sites.ed.gov/idea/"},
+  {"id":"ed-idea-newsroom","url":"https://sites.ed.gov/idea/whats-new/"},
+  {"id":"ed-504","url":"https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504"},
+  {"id":"ada-gov","url":"https://www.ada.gov/"},
+  {"id":"ssa-able","url":"https://www.ssa.gov/ssi/spotlights/spot-able.html"},
+  {"id":"ferpa","url":"https://studentprivacy.ed.gov/"}
+ ],
+ "state_pages": "derived from data/states.json: special_ed_page, parent_rights_page, regulations.url, dispute_resolution.page"
+}
