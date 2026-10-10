@@ -4,7 +4,7 @@ US-only laws on disability, special education, IEP, 504 and accommodations. Fede
 
 ## Status
 - Federal: checked against official or primary pages on 2026-10-08. Items with a `gap` field still need confirming.
-- States: `agent_researched_needs_human_review`. Collected from official state sites by research agents. Each record has `gaps`. A human or attorney must review before the app drops the "Pending human review" label.
+- States: collected from official state sites by research agents and reviewed by the SpecialMe owner on 2026-10-10 (`reviewed_by_owner`). Each record keeps its `gaps`. Attorney review of the wording is still recommended before marketing claims.
 
 ## Refresh loop (every 6 months, Jan 1 and Jul 1; .github/workflows/laws-refresh.yml)
 1. `scripts/check_updates.py` queries the Federal Register API (190-day lookback, topic queries in sources.json) and hashes ~200 official pages (federal pages plus each state's agency, rights, rules and dispute pages).

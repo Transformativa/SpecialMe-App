@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "generated": "2026-10-08",
- "review_status": "agent_researched_needs_human_review",
+ "review_status": "reviewed_by_owner",
  "states": [
   {
    "code": "AL",
@@ -50,7 +50,8 @@
     "No state-specific notable laws (dyslexia, restraint, autism insurance) confirmed on official sites."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "AK",
@@ -88,7 +89,8 @@
     "Procedural safeguards notice shows no date."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "AZ",
@@ -141,7 +143,8 @@
     "Not confirmed which page of the ESA site cites the ESA statute section."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "AR",
@@ -174,7 +177,8 @@
     "No notable state laws confirmed."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "CA",
@@ -203,7 +207,8 @@
     "SELPA structure not confirmed on an opened official page."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "CO",
@@ -257,7 +262,8 @@
     "Regulations link is CDE's rules page; the Secretary of State rule text link was not opened."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "CT",
@@ -300,7 +306,8 @@
     "Regulations PDF is the SDE copy (Rev. 2015 per SDE page)."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "DE",
@@ -359,7 +366,8 @@
     "The July 2026 procedural safeguards PDF link was taken from the Rights and Disputes page and the PDF itself was not opened."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "DC",
@@ -400,7 +408,8 @@
     "Eligibility ages not stated in sources opened."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "FL",
@@ -458,7 +467,8 @@
     "Upper age limit (for example, through the school year a student turns 22) was not stated on the FLDOE eligibility page."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "GA",
@@ -523,7 +533,8 @@
     "The 'state rules that exceed IDEA' document is dated 2018 and was not used as a source."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "HI",
@@ -556,7 +567,8 @@
     "No state-specific notable laws or 2024-2026 changes were confirmed on official sites."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "ID",
@@ -600,7 +612,8 @@
     "Chapter 20 statute page only confirmed for s. 33-2001 (definitions)."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "IL",
@@ -643,7 +656,8 @@
     "No 2024-2026 change confirmed."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "IN",
@@ -686,7 +700,8 @@
     "Seclusion and restraint commission page was listed but not opened."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "IA",
@@ -739,7 +754,8 @@
     "Iowa Code chapter 256B was fetched from the 2026 Code PDF; the PDF carries no stated effective date."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "KS",
@@ -775,7 +791,8 @@
     "No state-specific notable laws or 2024-2026 changes were confirmed on official sites."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "KY",
@@ -828,7 +845,8 @@
     "The 704 KAR 7:160 effective date is a 'certified' date from the regulation history line."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "LA",
@@ -917,7 +935,8 @@
     "Dates for ombudsman, school choice program, Act 479 and Act 745 items not confirmed."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "ME",
@@ -983,7 +1002,8 @@
     "Statute URL uses http (official site)."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "MD",
@@ -1041,7 +1061,8 @@
     "The effective date of the current COMAR 13A.05.01 text was not confirmed."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "MA",
@@ -1123,7 +1144,8 @@
     "Old www.doe.mass.edu/sped/ URLs partly return 404; new /specialeducation/ paths were used."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "MI",
@@ -1182,7 +1204,8 @@
     "Procedural safeguards PDF itself not opened; the page hosting it was confirmed."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "MN",
@@ -1242,7 +1265,8 @@
     "Whether chapter 3525 is currently being replaced or amended was not checked."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "MS",
@@ -1309,7 +1333,8 @@
     "State school-choice or ESA program for students with disabilities not confirmed on an official site."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "MO",
@@ -1368,7 +1393,8 @@
     "Exact Part B ages in the state plan were taken from the DESE page summary, not the plan text."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "MT",
@@ -1435,7 +1461,8 @@
     "Statute index is the 2019 MCA edition; current edition not confirmed."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "NE",
@@ -1471,7 +1498,8 @@
     "No state-specific notable laws or programs were confirmed on official sites."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "NV",
@@ -1537,7 +1565,8 @@
     "A separate dedicated procedural safeguards page was not found; the parent rights PDFs are linked from the dispute resolution page."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "NH",
@@ -1574,7 +1603,8 @@
     "No confirmed recent changes or state-specific notable laws."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "NJ",
@@ -1624,7 +1654,8 @@
     "The PRISE English PDF itself was not opened; the link was read from the parent page."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "NM",
@@ -1673,7 +1704,8 @@
     "Procedural safeguards notice on the PED page is dated December 2020."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "NY",
@@ -1709,7 +1741,8 @@
     "No recent changes confirmed (a State Complaint Procedures Q&A shows 'Updated January 2025' in a search result, but that PDF was not opened)."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "NC",
@@ -1754,7 +1787,8 @@
     "No state-specific notable laws or programs were confirmed on official sites."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "ND",
@@ -1813,7 +1847,8 @@
     "Dyslexia and transition grant items are described from the Century Code chapter text; effective dates not confirmed."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "OH",
@@ -1866,7 +1901,8 @@
     "The Parent Rights PDF itself was not opened; the guide page was confirmed to load and to describe the July 1, 2025 replacement."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "OK",
@@ -1922,7 +1958,8 @@
     "Upper age limit of eligibility not confirmed on an official Oklahoma page."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "OR",
@@ -1981,7 +2018,8 @@
     "Effective dates for notable items not confirmed."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "PA",
@@ -2053,7 +2091,8 @@
     "Early intervention age range taken from PDE page summary, not a regulation."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "RI",
@@ -2119,7 +2158,8 @@
     "RI dyslexia page cites no screening requirement or state law, so no dyslexia item included."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "SC",
@@ -2185,7 +2225,8 @@
     "Exceptional SC / school choice program for students with disabilities not confirmed."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "SD",
@@ -2235,7 +2276,8 @@
     "No 2024-2026 change confirmed; recent_changes left empty."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "TN",
@@ -2284,7 +2326,8 @@
     "Dyslexia and restraint/seclusion laws not researched."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "TX",
@@ -2348,7 +2391,8 @@
     "The rule PDF does not use the words '19 TAC'; citation inferred from the Texas Administrative Code structure and TEA file naming."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "UT",
@@ -2397,7 +2441,8 @@
     "Restraint/seclusion provisions not confirmed."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "VT",
@@ -2449,7 +2494,8 @@
     "Did not find or confirm a dyslexia screening, restraint/seclusion, or autism insurance item on an official page."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "VA",
@@ -2509,7 +2555,8 @@
     "Did not find or confirm dyslexia, restraint/seclusion, or other state-specific items on official pages."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "WA",
@@ -2583,7 +2630,8 @@
     "ESHB 2557 final session-law citation and the OSPI rule change status were not confirmed beyond the OSPI FAQ."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "WV",
@@ -2643,7 +2691,8 @@
     "Effective dates for W. Va. Code 18-20-10 and 18-20-11 were not stated on the pages; a 2026 bill (HB4995) appears in the 18-20-11 history but its effect was not confirmed."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "WI",
@@ -2708,7 +2757,8 @@
     "No dated 2024-2026 change confirmed; dyslexia, restraint/seclusion, and autism insurance items not checked on official pages."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   },
   {
    "code": "WY",
@@ -2775,7 +2825,9 @@
     "Wyoming parent guide page has no publication date."
    ],
    "verified_at": "2026-10-08",
-   "status": "agent_researched_needs_human_review"
+   "status": "reviewed_by_owner",
+   "reviewed_on": "2026-10-10"
   }
- ]
+ ],
+ "reviewed_on": "2026-10-10"
 }
